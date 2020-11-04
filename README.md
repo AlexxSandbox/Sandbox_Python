@@ -1,5 +1,6 @@
 # MySandbox
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/Aleksandr%20Sergeev/Sandbox_Python)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/AlexxSandbox/Sandbox_Python)
 
 ### About
 Sandbox for testing and learning different Python features

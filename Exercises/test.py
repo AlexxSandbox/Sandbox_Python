@@ -1,11 +1,14 @@
-def q(n, k):
-    if k == 0:
-        return 1
-    elif k > n:
-        return 0
-    else:
-        return q(n-1, k) + q(n-1, k-1)
+class MoneyBox:
 
+    def __init__(self, capacity=0):
+        self.capacity = capacity
 
-n, k = map(int, input().split())
-print(q(n, k))
+    def can_add(self, v):
+        if self.capacity >= v:
+            return True
+        else:
+            return False
+
+    def add(self, v):
+        if self.can_add(v):
+            self.capacity -= v

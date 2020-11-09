@@ -1,14 +1,11 @@
-def user_input():
+def text_input():
     with open('input.txt', 'r') as text:
         relatives = {}
         requests = []
         class_count = int(text.readline())
         for _ in range(class_count):
-            tmp = text.readline().replace(':', '').split()
-            if tmp[0] in relatives:
-                pass
-            else:
-                relatives[tmp[0]] = tmp[1:]
+            tmp = text.readline().split()
+            relatives[tmp[0]] = [] if len(tmp) == 1 else tmp[2:]
 
         requests_count = int(text.readline())
         for _ in range(requests_count):
@@ -17,16 +14,24 @@ def user_input():
     return relatives, requests
 
 
-# print(*user_input(), sep='\n')
-# relatives = {'A': [], 'B': ['A'], 'C': ['A'], 'D': ['B', 'C']}
-# requests = [['A', 'B'], ['B', 'D'], ['C', 'D'], ['D', 'A']]
+def user_input():
+    relatives = {}
+    requests = []
+    for _ in range(int(input())):
+        tmp = input().split()
+        relatives[tmp[0]] = [] if len(tmp) == 1 else tmp[2:]
+
+    for j in range(int(input())):
+        requests.append(input().split())
+
+    return relatives, requests
 
 
-def check_relatives(relatives, request):
+def is_parents(relatives, request):
     if request[0] == request[1]:
         return 'Yes'
 
-    parents = relatives[request[1]]
+    parents = relatives[request[1]].copy()
     parent = request[0]
 
     while parents:
@@ -43,9 +48,9 @@ def check_relatives(relatives, request):
 
 
 def main():
-    relatives, requests = user_input()
+    relatives, requests = text_input()
     for request in requests:
-        print(check_relatives(relatives, request))
+        print(is_parents(relatives, request))
 
 
 main()

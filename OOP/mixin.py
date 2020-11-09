@@ -2,7 +2,7 @@ import time
 
 
 class Loggable:
-    """ Добавление штампа времени к выводу"""
+    """ Добавление штампа времени к выводу """
     def log(self, msg):
         print(str(time.ctime()) + ": " + str(msg))
 

@@ -1,8 +1,4 @@
-try:
-    foo()
-except ZeroDivisionError:
-    print('ZeroDivisionError')
-except ArithmeticError:
-    print('ArithmeticError')
-except AssertionError:
-    print('AssertionError')
+from simplecrypt import encrypt, decrypt
+
+with open('passwords.txt', 'r') as text:
+    print(text.read())

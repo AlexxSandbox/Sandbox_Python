@@ -52,12 +52,30 @@ def f_4(x, y):
         result = x / y
     except ZeroDivisionError:
         print('division by zero')
-    else:
+    else:  # it will be execute if did not excepts
         print('result is', result)
-    finally:  # will be execute all time
+    finally:  # it will be execute all time
         print('Finally')
 
 
 f_4(4, 2)  # result is 2.0 + Finally
 f_4(4, 0)  # division by zero + Finally
 f_4(4, [])  # Finally + 'error'
+
+
+class NonPositiveError(Exception):
+    """ Example user's exception """
+    pass
+
+
+class PositiveList(list):
+    """ raise user's exeception if item < 0 """
+    def append(self, item):
+        if item > 0:
+            list.append(self, item)
+        else:
+            raise NonPositiveError
+
+
+x = PositiveList()
+x.append(-2)  # raise NonPositiveError

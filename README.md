@@ -10,15 +10,18 @@ Sandbox for testing and learning different Python features
 ### Sources
 - **Algorithms** - different exercises about algorithms
 - **API** - testing application programming interface (API)
-- **Exercises** - nothing
+- **Encryption** - testing encryption packages
+- **Exercises** - sandbox for different test coding
 - **Heap** - examples and different exercises about heap (data structure)
 - **JetBrains** - exercises from JetBrains
 - **LinkedList** - examples and different exercises about linked list (data structure)
 - **Matrix** - examples and different exercises about matrix
+- **OOP** - classes and objects 
 - **Python basics** - examples and main features of the programming language Python3
 - **Queue's** - examples and different exercises about queue (data structure, FIFO)
 - **Recursion** - examples and different exercises with recursion
 - **Requests** - testing request lib
 - **Sorting** - examples and different exercises about data sorting
 - **Stack** - examples and different exercises about stack (data structure, LIFO)
+- **Testing** - examples code testing
 - **Trees** - examples and different exercises about trees (data structure)

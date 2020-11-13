@@ -1,3 +1,4 @@
+""" Генератор списка """
 # create new list 1*1, 2*2, 3*3
 list_numbers = [1, 2, 3]
 new_list = [x * x for x in list_numbers]
@@ -28,14 +29,15 @@ new_list = [num if num >= 0 else 0 for num in old_list]
 print(new_list)
 
 
-# game_field = [i for i in '123456789']
-# print(game_field)
-# new_field = []
-# for i in range(3):
-#     new_field.append(game_field[i*3:3+i*3])
-# move = [int(i) for i in input().split(' ')]
-# new_field[move[1]*-1][move[0] - 1] = 'X'
-# print(new_field)
+# make field for tic-tak-toe
+game_field = [i for i in '123456789']
+print(game_field)
+new_field = []
+for i in range(3):
+    new_field.append(game_field[i*3:3+i*3])
+move = [int(i) for i in input().split(' ')]  # input x_y
+new_field[move[1]*-1][move[0] - 1] = 'X'
+print(new_field)
 
 
 # several variables

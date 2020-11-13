@@ -8,7 +8,8 @@ S_FIG = {
 }
 
 
-def square(fig):
+def f_area(fig):
+    """ Geometrical figure's area """
     if fig in S_FIG:
         par = []
         for _ in range(S_FIG[fig][1]):
@@ -19,7 +20,7 @@ def square(fig):
 
 def main():
     fig = input()
-    print(square(fig))
+    print(f_area(fig))
 
 
 if __name__ == '__main__':

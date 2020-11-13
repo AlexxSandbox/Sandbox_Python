@@ -1,0 +1,8 @@
+def mod_checker(x, mod=0):
+    """ return lambda """
+    return lambda y: y % x == mod
+
+
+mod_3 = mod_checker(3)  # create lambda
+print(mod_3(3))  # True
+print(mod_3(4))  # False

@@ -40,10 +40,11 @@ def hungry_kids_fast(kids, cookies):
 
 
 def main():
-    """ kids_count - кол-во детей
-        kids - дети с уровнем жадности (числа через пробел)
-        cookie_count - кол-во печенек
-        cookies - печеньки (числа в строку)
+    """
+    kids_count - кол-во детей
+    kids - дети с уровнем жадности (числа через пробел)
+    cookie_count - кол-во печенек
+    cookies - печеньки (числа в строку)
     """
     kids_count = int(input())
     kids = [int(x) for x in input().split()] if kids_count else []

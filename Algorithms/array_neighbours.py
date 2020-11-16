@@ -1,27 +1,26 @@
-""" Вывести соседние элементы в матрице """
+def matrix_neigbours():
+    """ Вывести соседние элементы в матрице """
+    n = int(input())
+    m = int(input())
+    matrix = [input().split() for _ in range(n)]
+    i, j = int(input()), int(input())
+    neighbors = []
+    col_size = len(matrix)
+    row_size = len(matrix[0])
 
+    if i != 0:
+        neighbors.append(matrix[i-1][j])
+    if i != col_size - 1:
+        neighbors.append(matrix[i+1][j])
+    if j != 0:
+        neighbors.append(matrix[i][j-1])
+    if j != row_size - 1:
+        neighbors.append(matrix[i][j+1])
 
-# n = int(input())
-# m = int(input())
-# matrix = [input().split() for _ in range(n)]
-# i, j = int(input()), int(input())
-# neighbors = []
-# col_size = len(matrix)
-# row_size = len(matrix[0])
-#
-# if i != 0:
-#     neighbors.append(matrix[i-1][j])
-# if i != col_size - 1:
-#     neighbors.append(matrix[i+1][j])
-# if j != 0:
-#     neighbors.append(matrix[i][j-1])
-# if j != row_size - 1:
-#     neighbors.append(matrix[i][j+1])
-#
-# neighbors = [int(x) for x in neighbors]
-# neighbors.sort()
-#
-# print(' '.join([str(x) for x in neighbors]))
+    neighbors = [int(x) for x in neighbors]
+    neighbors.sort()
+
+    print(' '.join([str(x) for x in neighbors]))
 
 
 class People:

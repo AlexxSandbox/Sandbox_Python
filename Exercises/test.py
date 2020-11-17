@@ -1,18 +1,14 @@
-def substr(s, t):
-    k = 0
-    while t in s:
-        k += 1
-        i = s.find(t) + 1
-        s = s[i:]
-    return k
+import re
 
+pattern = r'a[abc]c'
+template = 'acc'
 
-def main():
-    s, t = [input() for x in range(2)]
-    print(substr(s, t))
+match_object = re.match(pattern, template)
+print(match_object)
 
+template = 'abc, acc, aac, dda'
+all = re.findall(pattern, template)
+print(all)
 
-assert substr('abababa', 'aba') == 3
-assert substr('abababa', 'abc') == 0
-assert substr('aaaaa', 'a') == 5
-assert substr('abc', 'abc') == 1
+fix = re.sub(pattern, 'abc', template)
+print(fix)

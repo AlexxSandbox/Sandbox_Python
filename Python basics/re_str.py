@@ -59,6 +59,3 @@ def re_group():
     for i in string:
         match = re.match(pattern, i)
         print(match)
-
-
-re_group()

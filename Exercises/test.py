@@ -1,45 +1,30 @@
 import json
 
-# data = json.loads(input())
 
-data = [
-    {
-        "name": "B",
-        "parents": ["A", "C"]
-    },
-    {
-        "name": "C",
-        "parents": ["A"]
-    },
-    {
-        "name": "A",
-        "parents": []
-    },
-    {
-        "name": "D",
-        "parents": ["C", "F"]
-    },
-    {
-        "name": "E",
-        "parents": ["D"]
-     },
-    {
-        "name": "F",
-        "parents": []
-     }
-]
+def check_parents(data):
+    counter = {item['name']: 1 for item in data}
+    relatives = {item['name']: item['parents'] for item in data}
+    stack = []
 
-parents = {parent['name']: 1 for parent in data}
-stack = []
-check = set()
+    for child in relatives:
+        check = set()
+        stack += relatives[child]
+        while stack:
+            parent = stack.pop()
+            if parent not in check:
+                counter[parent] += 1
+            stack += relatives[parent]
+            check.add(parent)
+
+    return counter
 
 
-for child in data:
-    stack.append(child['parents'])
-    while stack:
-        parent = stack.pop()
-        if parent in parents:
-            parents[parent] += 1
+def main():
+    data = json.loads(input())
+    parents = check_parents(data)
+    for parent in sorted(parents):
+        print(f'{parent} : {parents[parent]}')
 
-for i in sorted(parents):
-    print(f'{i} : {parents[i]}')
+
+if __name__ == '__main__':
+    main()

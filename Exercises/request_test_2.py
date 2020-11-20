@@ -1,7 +1,6 @@
 import re
 import requests
 
-
 pattern = '<a[^>]*?href=[\"|\'](?:\w+://)*([\w|.|-]+\w)'
 
 url = 'http://pastebin.com/raw/7543p0ns'

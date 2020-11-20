@@ -1,0 +1,1725 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<meta http-equiv="Refresh" content="720; URL=http://www.rbc.ru/?/">
+<link rel="alternate" type=application/rss+xml title="Главные новости" href="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/mainnews.rss">
+<link rel="alternate" type=application/rss+xml title="Краткая лента новостей" href="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbc.ru/newsline.rss">
+<link rel="alternate" type=application/rss+xml title="РБК daily: главные новости" href="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcdaily.ru/mainnews.rss">
+<link rel="alternate" type=application/rss+xml title="Спорт: лента новостей" href="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/sport.rbc.ru/newsline.rss">
+<title>РосБизнесКонсалтинг - новости, акции, курсы валют, погода, доллар, евро</title>
+
+<meta name="Description" content="&quot;РосБизнесКонсалтинг&quot; - ведущая российская компания, работающая в сферах масс-медиа и информационных технологий.">
+<meta name="Keywords" content="новости, доллар, политика, курс, акции, облигации, нефть, рубль, евро, финансы, экономика, банк, кредит, вексель, информация, фондовый, инвестиционный, рынок, недвижимость, валюта, эмитент, комментарии, аналитика, продаж/продажа, цена, компания, товары, исследование, прогноз, индекс, рейтинг, биржа, семинар, фондовый, ПИФ, доходность, IPO, паевой">
+<link href="http://pics.rbc.ru/img/skin/fp_v3/layout_34.css" rel="stylesheet" type=text/css>
+<link href="http://pics.rbc.ru/img/skin/fp_v3/skin_34.css" rel="stylesheet" type=text/css>
+<link href="http://pics.rbc.ru/img/skin/fp_v3/index_34.css" rel="stylesheet" type=text/css>
+<script language='JavaScript' src='http://pics.rbc.ru/js/fp_v3/lib.js'></script>
+<script language='JavaScript' src='http://pics.rbc.ru/js/fp_v3/indices.js'></script>
+</head>
+<body>
+<!--[if IE 6]>
+<style>
+.fullContainer .appendix, {left:2px;}
+</style>
+<![endif]-->
+<div class="fullContainer">
+<div class="pseudoRBg">
+<div class="header">
+
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage_spec" empty="true" style="display:none"></a>
+
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><table width=100% border=0 cellspacing=0 cellpadding=0 style="border: 1px solid #99c4f7"><tr><td align="center" bgcolor="#ffffff"><script LANGUAGE="Javascript"><!--
+    var size = ' width=100% height=60 ';
+    var linkrbc_92601= escape("http://www.rbc.ru/0e/9hjg4y/ad/to?sid=firstpage_end.20090330102319.92601&lid=firstpage_end&id=92601&code=!http%3A%2F%2Fwww.su155.ru%2Fru%2Fservice%2Freg_otd");
+    var c13=String.fromCharCode(10);
+    var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) 
+{
+    var r=/\D(\d+)\.\d+/.exec(plugin.description);
+    plugin=(r.length>1 && r[1]>=8); r=void(0);
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
+        && (navigator.userAgent.indexOf("Windows 95")>=0 
+        || navigator.userAgent.indexOf("Windows 98")>=0 
+        || navigator.userAgent.indexOf("Windows NT")>=0)) 
+{
+    document.write('<scr'+'ipt LANGUAGE=VBscr'+'ipt> '+c13);
+    document.write('on error resume next '+c13);
+    document.write('plugin = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) '+c13);
+    document.write('</sc'+'ript> '+c13);
+}
+if ( plugin && navigator.userAgent )  
+{
+    var flash_92601=''; flash_92601+='<OBJECT classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"';
+    flash_92601+='codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" ';
+    flash_92601+=' ' + size + ' ID=file>';
+    var seed=Math.round(Math.random()*65535);
+    flash_92601+=' <PARAM NAME="movie" value="http://pics.rbc.ru/xe429dkjs1yt/asm/dijjygrxqs/fjcgabxcecso/x60.swf?link1='+linkrbc_92601+'&seed='+seed+'"><PARAM NAME="quality" VALUE="high"><PARAM NAME="wmode" VALUE="opaque">';
+    flash_92601+=' <EMBED src="http://pics.rbc.ru/xe429dkjs1yt/asm/dijjygrxqs/fjcgabxcecso/x60.swf?link1='+linkrbc_92601+'&seed='+seed+'" quality="high" wmode="opaque" ';
+    flash_92601+=' ' + size + ' swLiveConnect=FALSE ';
+    flash_92601+=' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">';
+    flash_92601+=' </EMBED>';
+    flash_92601+=' </OBJECT>';  if('show_flash' in window) {
+        window.show_flash(flash_92601);
+    } else {
+        document.write(flash_92601);
+    }
+    flash_92601='';
+}
+else
+{document.write('<a href="http://www.rbc.ru/je/h9blj5yvau/go?sid=firstpage_end.20090330102319.92601&lid=firstpage_end&id=92601&code=!http%3A%2F%2Fwww.su155.ru%2Fru%2Fservice%2Freg_otd" target="_blank"><img border=0 src="http://pics.rbc.ru/pee9wjzy9ka1/dijjygrxqs/fjcgabxcecso/x60.gif" width="950" height="60" alt=""></a>');
+}
+//--></script><NOscript><a href="http://www.rbc.ru/je/h9blj5yvau/go?sid=firstpage_end.20090330102319.92601&lid=firstpage_end&id=92601&code=!http%3A%2F%2Fwww.su155.ru%2Fru%2Fservice%2Freg_otd" target="_blank"><img border=0 src="http://pics.rbc.ru/pee9wjzy9ka1/dijjygrxqs/fjcgabxcecso/x60.gif" width="950" height="60" alt=""></a></Noscript></td></tr></table></div>
+<div class="header layout">
+<div class="column sideLeft">
+<div class="headerBannerLeft">
+
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a href="http://www.rbc.ru/een9ttjayyuag/go?sid=firstpage_top.20090325151427.100154&lid=firstpage_top&id=100154&code=!http%3A%2F%2Fwww.juravli.ru%2F" target="_blank"><img border=0 src="http://pics.rbc.ru/ze/69p3jbby/an/cddvnpahs/gbaabfeefadef/234100.gif" width="234" height="100" alt=""></a>
+</div>
+</div>
+<div class="column mainContent">
+<div class="content">
+<h1>РосБизнесКонсалтинг</h1>
+
+<ul class="navigation">
+<li><a href="http://www.rbcnews.com/" class="nav_rbcnews">RBC News</a></li>
+<li><a href="http://pda.rbc.ru/" class="nav_pda">PDA-версия</a></li>
+<li><a href="http://rss.rbc.ru/" class="nav_rss">RSS-экспорт новостей</a></li>
+<li><a href="http://www.rbc.ru/wap/" class="nav_wap">WAP</a></li>
+<li><a href="http://memori.ru/link/" class="nav_memori" onclick="location.href='http://memori.ru/link/?sm=1&u_data[url]='+encodeURIComponent(document.location.href)+'&u_data[name]='+encodeURIComponent('РосБизнесКонсалтинг');return false;" title="в мемори">в мемори</a></li>
+<li><a href="http://www.rbc.ru/home/" class="nav_hp" onclick="return setHP(this, 'http://www.rbc.ru');">Сделать rbc.ru стартовой</a></li>
+</ul>
+<div class="headerLinksBar">
+<a class="advertLink" href="http://www.rbc.ru/advert/rub/">Реклама на РБК</a>
+
+<div class="headerBannerRight">
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage_spec_p1" empty="true" style="display:none"></a>
+</div>
+<div class="headerLinks">
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><ul>
+    <li><a href="http://www.pochta.ru">Почта</a></li>
+    <li><a href="http://marketing.rbc.ru">Исследования</a></li>
+    <li><a href="http://ulov-umov.ru/?from=rbc"  class="red">Работа</a></li>
+    <li><a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://hc.ru/ru/">Хостинг</a></li>
+
+    <li><a href="http://pogoda.rbc.ru/">Погода</a></li>
+    <li><a href="http://www.informer.ru/">Информер</a><sup id="tm">TM</sup></li>
+    <li><a href="http://tv.rbc.ru/">ТВ</a></li>
+</ul>
+<ul>
+<li><a href="http://rating.rbc.ru/">Рейтинги</a></li>
+    <li><a href="http://realty.rbc.ru/">Недвижимость</a></li>
+
+    <li><a href="http://www.m-2.ru/">M2</a></li>
+    <li><a href="http://seminar.rbc.ru/">Семинары</a></li>
+    <li><a href="http://www.turist.ru/">Туризм</a></li>
+    <li><a href="http://style.rbc.ru/">Стиль</a></li>
+</ul>
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<table class="tblContent">
+<tr>
+<td>
+<div class="leftColumn">
+<div class="leftTd">
+<h3><a href="http://www.top.rbc.ru">Новости на РБК</a></h3>
+<div class="greenBlock2" id="expandMenuCont">
+<ul class="bold">
+<li><a href="http://top.rbc.ru/economics/">Экономика</a></li>
+<li><a href="http://top.rbc.ru/incidents/">Происшествия</a></li>
+<li><a href="http://top.rbc.ru/politics/">Политика</a></li>
+
+<li><a href="http://top.rbc.ru/society/">Общество</a></li>
+<li><a href="http://top.rbc.ru/retail/">Потребрынок</a></li>
+<li><a href="http://sport.rbc.ru/">Спорт</a></li>
+</ul>
+<div style="margin-left:-3px; margin-right:-3px;"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage_left" empty="true" style="display:none"></a></div>
+<ul class="bold">
+<li><a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru">Авто</a></li>
+<li><a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.cnews.ru">CNews</a></li>
+
+<li><a href="http://www.rbctv.ru/live/">Трансляция <small>РБК-ТВ</small></a></li>
+
+<li>Пресс&ndash;<wbr>&shy;конференции</li>
+<li><a href="http://blogi.rbc.ru/">VIP&ndash;блоги</a></li>
+</ul>
+<div class="expandMenu">
+<div class="titleOpen" onClick="expandMenu(this);" title="Пройдите по ссылке, чтобы увидеть все региональные проекты РБК">РБК - Регионы</div>
+<div><a href="http://top.rbc.ru/moscow/">РБК - Москва</a></div>
+<div><a href="http://spb.rbc.ru/">РБК - Санкт-Петербург</a></div>
+<div><a href="http://ug.rbc.ru/" class="red">РБК - Южный регион</a></div>
+
+<div><a href="http://www.rbc.ua/">РБК - Украина</a></div>
+</div>
+<div class="expandMenu">
+<div class="titleOpen" onClick="expandMenu(this);" title="Пройдите по ссылке, чтобы увидеть полный список новостных продуктов РБК">Новостные ленты</div>
+<div><a href="http://www.rbc.ru/fnews.frame/">Единая лента</a></div>
+<div><a href="http://www.rbc.ru/info/tek/info_rbc_tek_rbc.shtml">Новости ТЭК</a></div>
+<div><a href="http://www.rbc.ru/rbcnews.frame/">RBC NEWS</a></div>
+<div><a href="http://www.rbc.ru/fondnews.frame/">Фондовые</a></div>
+<div><a href="http://www.rbc.ru/digest/">Дайджесты СМИ</a></div>
+<div><a href="http://www.quote.ru/analitics/comments/index.shtml?list_all">Комментарии</a></div>
+
+<div><a href="http://www.rbc.ru/consultant/">Законод-во РФ</a></div>
+<div><a href="http://www.rbc.ru/cur_lnd.shtml">Законы - free</a></div>
+<div><a href="http://www.rbc.ru/garantnews/">Новости права</a></div>
+<div><a href="http://www.rbc.ru/calendar/">Календарь событий</a></div>
+</div>
+</div>
+<script>expandMenuInit();</script>
+<div class="leftBanner">
+
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><script LANGUAGE="Javascript"><!--
+    var size = ' width=160 height=215 ';
+    var linkrbc_99996= escape("http://www.rbc.ru/gedk9gjqylkaf/go?sid=firstpage_left2.20090323114212.99996&lid=firstpage_left2&id=99996&code=!http%3A%2F%2Fwww.livemontenegro.ru%2F%3Fid%3Drbc");
+    var c13=String.fromCharCode(10);
+    var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) 
+{
+    var r=/\D(\d+)\.\d+/.exec(plugin.description);
+    plugin=(r.length>1 && r[1]>=8); r=void(0);
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
+        && (navigator.userAgent.indexOf("Windows 95")>=0 
+        || navigator.userAgent.indexOf("Windows 98")>=0 
+        || navigator.userAgent.indexOf("Windows NT")>=0)) 
+{
+    document.write('<scr'+'ipt LANGUAGE=VBscr'+'ipt> '+c13);
+    document.write('on error resume next '+c13);
+    document.write('plugin = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) '+c13);
+    document.write('</sc'+'ript> '+c13);
+}
+if ( plugin && navigator.userAgent )  
+{
+    var flash_99996=''; flash_99996+='<OBJECT classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"';
+    flash_99996+='codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" ';
+    flash_99996+=' ' + size + ' ID=file>';
+    var seed=Math.round(Math.random()*65535);
+    flash_99996+=' <PARAM NAME="movie" value="http://pics.rbc.ru/meq/9wjxvyz/ab7/ebhahycbnao/fjjjjgiprrlt/090325_C_PNINL_3_002_Mirax_160215_optimiert_lp.swf?link1='+linkrbc_99996+'&seed='+seed+'"><PARAM NAME="quality" VALUE="high"><PARAM NAME="wmode" VALUE="opaque">';
+    flash_99996+=' <EMBED src="http://pics.rbc.ru/meq/9wjxvyz/ab7/ebhahycbnao/fjjjjgiprrlt/090325_C_PNINL_3_002_Mirax_160215_optimiert_lp.swf?link1='+linkrbc_99996+'&seed='+seed+'" quality="high" wmode="opaque" ';
+    flash_99996+=' ' + size + ' swLiveConnect=FALSE ';
+    flash_99996+=' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">';
+    flash_99996+=' </EMBED>';
+    flash_99996+=' </OBJECT>';  if('show_flash' in window) {
+        window.show_flash(flash_99996);
+    } else {
+        document.write(flash_99996);
+    }
+    flash_99996='';
+}
+else
+{document.write('<a href="http://www.rbc.ru/eel9c/jd2yzmanq/to?sid=firstpage_left2.20090323114212.99996&lid=firstpage_left2&id=99996&code=!http%3A%2F%2Fwww.livemontenegro.ru%2F%3Fid%3Drbc" target="_blank"><img border=0 src="http://pics.rbc.ru/qeu96javytna/h/ebhahycbnao/fjjjjgiprrlt/090318_Mira-_AstraMontenegro_160-215_statisch_lp.jpg" width="160" height="215" alt=""></a>');
+}
+//--></script><NOscript><a href="http://www.rbc.ru/eel9c/jd2yzmanq/to?sid=firstpage_left2.20090323114212.99996&lid=firstpage_left2&id=99996&code=!http%3A%2F%2Fwww.livemontenegro.ru%2F%3Fid%3Drbc" target="_blank"><img border=0 src="http://pics.rbc.ru/qeu96javytna/h/ebhahycbnao/fjjjjgiprrlt/090318_Mira-_AstraMontenegro_160-215_statisch_lp.jpg" width="160" height="215" alt=""></a></Noscript>
+
+</div>
+<h4 class="lightGreen"><a href="http://www.rbc.ru/cur/">Валюты, кредиты</a></h4>
+<div class="greenBlock2">
+<ul>
+<li><a href="http://stock.rbc.ru/demo/cb.0/intraday/">Курсы ЦБ РФ</a></li>
+<li><a href="http://stock.rbc.ru/demo/forex.9/intraday/index.rus.shtml">FOREX</a></li>
+<li><a href="http://consensus.rbc.ru/forex/">Прогнозы валют</a></li>
+<li><a href="http://www.rbc.ru/cash">Наличная валюта</a></li>
+<li><a href="http://www.rbc.ru//info/info_mbkonline_pressr.shtml">МБК online</a></li>
+<li><b><a href="http://credit.rbc.ru/">РБК Кредит</a></b></li>
+
+</ul>
+</div>
+<h4 class="lightGreen"><a href="http://www.quote.ru/">Фондовый рынок</a></h4>
+<div class="greenBlock2">
+<ul>
+<li><a href="http://www.quote.ru/">Акции</a></li>
+<li><a href="http://www.quote.ru/mf/">Паевые фонды</a></li>
+<li><a href="http://quote.ru/bonds/">Облигации, госбумаги</a></li>
+<li><b><a href="http://www.quote.ru/exchanges/">Биржи online</a></b></li>
+<li><a href="http://stock.rbc.ru/online/rusindex.0/intraday/index.rus.shtml">Фондовые индексы</a></li>
+<li><a href="http://www.quote.ru/weekly/">Мировые финансы</a></li>
+
+<li><a href="http://www.quote.ru/stocks/base_emitent.shtml">База эмитентов</a></li>
+</ul>
+</div>
+<h4 class="lightGreen"><a href="http://www.quote.ru/research/">Аналитика</a></h4>
+<div class="greenBlock2">
+<ul>
+<li><a href="http://www.rbc.ru/cur/macro.shtml">Макроэкономика</a></li>
+<li><a href="http://www.quote.ru/fa/">Фундамент. анализ</a></li>
+<li><a href="http://www.quote.ru/research/comments/index.shtml?list_all">Лента комментариев</a></li>
+<li><a href="http://www.rbc.ru/reviews/">Обзоры рынков</a></li>
+</ul>
+
+</div>
+<h4 class="lightGreen"><a href="http://www.rbc.ru/services/">Инструменты</a></h4>
+<div class="greenBlock2">
+<ul>
+<li><a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://map.rbc.ru">Карта рынка</a></li>
+<li><a href="http://export.rbc.ru/">Экспорт данных</a></li>
+<li><a href="http://conv.rbc.ru/">Конвертор валют</a></li>
+<li><b><a href="http://www.quote.ru/commodities/">Товарные рынки</a></b></li>
+</ul>
+</div>
+<h4 class="lightGreen"><a href="http://www.biztorg.ru/">Продажа бизнеса</a></h4>
+
+<div class="greenBlock2">
+<ul>
+<li><a href="http://www.biztorg.ru/search.shtml?cfg=biztorg&type=S">Предложения о продаже</a></li>
+<li><a href="http://biztorg.ru/franchise.shtml">Франшизы</a></li>
+<li><a href="http://biztorg.ru:80/main_services_new.shtml">Оценка бизнеса</a></li>
+</ul>
+</div>
+<h4 class="lightGreen"><a href="http://realty.rbc.ru/">Недвижимость</a></h4>
+<div class="greenBlock2">
+<ul>
+<li><a href="http://realty.rbc.ru/">Жилая</a></li>
+<li><a href="http://realty.rbc.ru/msk/business/map/">Нежилая</a></li>
+
+<li><a href="http://realty.rbc.ru/foreign/">Зарубежная</a></li>
+</ul>
+</div>
+<h4 class="lightGreen"><div class="titleOpen" id="signMenu" onClick="expandMenu2('signMenu', 'expandMenuCont2');" title="Пройдите по ссылке, чтобы увидеть все издания РБК" style="padding-left: 12px;">Издания РБК</div></h4>
+<div style="display: block;" class="greenBlock2" id="expandMenuCont2">
+<div class="expandMenu">
+<div><a href="http://www.rbcdaily.ru/">Газета РБК daily</a></div>
+<div><a href="http://magazine.rbc.ru/">Журнал РБК</a></div>
+<div><a href="http://www.nashidengi.ru/">Наши деньги</a></div>
+<div><a href="http://www.m-2.ru/">Квадратный метр</a></div>
+<div><a href="http://www.autonews.ru/magazine/">Журнал Autonews</a></div>
+
+<div><a href="http://www.salon.ru/">SALON-interior</a></div>
+<div><a href="http://www.ivd.ru/">Идеи Вашего Дома</a></div>
+</div>
+</div>
+</div>
+</div>
+</td>
+<td class="centerBlock">
+<div class="midColumn">
+<div class="contentBox">
+<div style="float:right;"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage_spec_2" empty="true" style="display:none"></a></div>
+<div class="width100 tabTable">
+<table width=100%><tr><td><div class="pseudoPanel"></div></td><td width=100%>
+<table width=100% id="tabPanel1"><tr><td width=33%><div class="tabItem" id="tabItem0"><h3 class="lightGreen" style="margin-right:1px;">Главное</h3></div></td><td width=33%><div class="tabItem" id="tabItem1"><h3 class="lightGreen" style="margin-right:1px;">Финансы</h3></div></td><td width=33%><div class="tabItem" id="tabItem2"><h3 class="lightGreen">Политика</h3></div></td></tr></table>
+
+</td></tr></table>
+<div class="flowBlock">
+<div class="bigNews commonTextBlock" id="bigNews">
+<a href="http://top.rbc.ru/society/30/03/2009/290885.shtml" title="А.Жуков: Пик безработицы в России в целом пройден"><img src="http://pics.top.rbc.ru/top_pics/uniora/00/1238420019_0100.250x200.jpeg" width=250 height=200 alt="А.Жуков: Пик безработицы в России в целом пройден"></a><div class="bigNewsName"><strong><a href="http://top.rbc.ru/society/30/03/2009/290885.shtml" class="black">А.Жуков: Пик безработицы в России в целом пройден</a></strong> </div><a href="http://top.rbc.ru/society/30/03/2009/290885.shtml" >При этом Нижегородская область больше остальных пострадала от кризиса.
+</a> </div>
+</div>
+<div>
+<div class="tabContent commonTextBlock">
+<div id="tabItem0_">
+<div class="ulList mainNews thin">
+<span><a href="http://top.rbc.ru/society/30/03/2009/290997.shtml" class="black">Власти запретят использование шипованной резины летом</a> </span><br>
+<span><a href="http://top.rbc.ru/economics/30/03/2009/290964.shtml" class="black">Российский рынок закрылся падением индексов</a> </span><br>
+
+<span><a href="http://top.rbc.ru/economics/30/03/2009/290922.shtml" class="black">Администрация Б.Обамы обвалила американский фондовый рынок</a> </span><br>
+<span><a href="http://top.rbc.ru/economics/30/03/2009/290917.shtml" class="black">Рынок акций США в ближайшее время будет крайне волатильным</a> </span><br>
+<span><a href="http://top.rbc.ru/politics/30/03/2009/290910.shtml" class="black">В.Путин назначил замминистра сельского хозяйства</a> </span><br>
+<span><a href="http://top.rbc.ru/politics/30/03/2009/290864.shtml" class="black">Япония подготовилась к запуску северокорейского спутника</a> </span><br>
+<span><a href="http://top.rbc.ru/incidents/30/03/2009/290856.shtml" class="black">В Австралии 70 тыс. домов остались без света</a> </span><br>
+<span><a href="http://top.rbc.ru/economics/30/03/2009/290847.shtml" class="black">КАМАЗ просит у правительства РФ 10 млрд руб.</a> </span><br>
+
+<span><a href="http://top.rbc.ru/society/30/03/2009/290845.shtml" class="black">Половина россиян не ходят в кино</a> </span><br>
+<span><a href="http://top.rbc.ru/incidents/30/03/2009/290835.shtml" class="black">Захват полицейской академии в Пакистане: десятки убитых и раненых</a> </span><br>
+<span><a href="http://magazine.rbc.ru/economist/" class="black">The Economist: Афганская провинция Урузган: Голландская модель</a> </span><br>
+<span><a href="http://turbo.ru" class="black">Turbo.ru: Объявлены итоги конкурса &quot;Автомобиль года в России&quot;</a> </span><br>
+<span><a href="http://raiting.rbc.ru" class="black"> РБК.Рейтинг: Самые политически нестабильные страны мира</a> </span><br>
+
+</div>
+<div align=right><a href="http://top.rbc.ru/">Все новости</a></div>
+</div>
+<div id="tabItem1_" style="display:none">
+<div class="ulList mainNews thin">
+<span><a class="black" href="http://top.rbc.ru/finances/30/03/2009/290951.shtml">Рынок рублевых облигаций: число технических сделок возросло</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/finances/30/03/2009/290939.shtml">&quot;Сургутнефтегаз&quot; решился на экспансию в Европу</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/finances/30/03/2009/290911.shtml">Прогнозы аналитиков: Внешний фон способствует продажам</a>
+</span><br>
+
+<span><a class="black" href="http://top.rbc.ru/finances/30/03/2009/290890.shtml">Эксперты: Предстоящий саммит G20 ослабляет позиции доллара</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/finances/30/03/2009/290873.shtml">Срочный рынок: итоги торгов за неделю 23-27 марта 2009г.</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/finances/30/03/2009/290841.shtml">Второй эшелон: инвесторы заинтересовались отставшими секторами</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/finances/30/03/2009/290830.shtml">Всемирный банк оценил последствия глобального кризиса</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/finances/30/03/2009/290799.shtml">Недельный прогноз: Рынки будут крайне волатильны </a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/finances/30/03/2009/290793.shtml">Технический срез: ОАО &quot;АВТОВАЗ&quot;</a>
+
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/finances/30/03/2009/290790.shtml">Акции АВТОВАЗа растут в ожидании выделения господдержки</a>
+</span><br>
+</div>
+<div align=right><a href="http://top.rbc.ru/finances/">Все новости</a></div>
+</div>
+<div id="tabItem2_" style="display:none">
+<div class="ulList mainNews thin">
+<span><a class="black" href="http://top.rbc.ru/politics/30/03/2009/290779.shtml">ООН не намерена мешать запуску северокорейского спутника </a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/politics/30/03/2009/290663.shtml">На местных выборах в Турции лидирует правящая партия </a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/politics/30/03/2009/290654.shtml">На выборах в Черногории побеждает проевропейская коалиция</a>
+
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/politics/30/03/2009/290655.shtml">На выборах мэра Анапы победила Т.Евсикова</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/politics/29/03/2009/290573.shtml">США: Северная Корея скрывает свои настоящие планы</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/politics/29/03/2009/290553.shtml">В Черногории пройдут досрочные парламентские выборы</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/politics/29/03/2009/290535.shtml">Жители Германии - G20: &quot;Мы не хотим платить за ваш кризис&quot;</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/politics/29/03/2009/290533.shtml">Испания собирается привлечь к суду администрацию Дж.Буша</a>
+</span><br>
+
+<span><a class="black" href="http://top.rbc.ru/politics/29/03/2009/290515.shtml">США не снимут эмбарго с Кубы</a>
+</span><br>
+</div>
+<div align=right><a href="http://top.rbc.ru/politics/">Все новости</a></div>
+</div>
+</div>
+</div>
+</div>
+<script type=text/javascript language="javascript">
+var overlapTabObj = new overlapTabs('tabPanel1', 'bigNews');
+overlapTabObj.bigNewsBlock = {'tabItem0':'<a href="http://top.rbc.ru/society/30/03/2009/290885.shtml" title="А.Жуков: Пик безработицы в России в целом пройден"><img src="http://pics.top.rbc.ru/top_pics/uniora/00/1238420019_0100.250x200.jpeg" width=250 height=200 alt="А.Жуков: Пик безработицы в России в целом пройден"></a><div class="bigNewsName"><strong><a href="http://top.rbc.ru/society/30/03/2009/290885.shtml" class="black">А.Жуков: Пик безработицы в России в целом пройден</a></strong> </div><a href="http://top.rbc.ru/society/30/03/2009/290885.shtml" >При этом Нижегородская область больше остальных пострадала от кризиса. </a>', 'tabItem1':' <a href="http://top.rbc.ru/finances/30/03/2009/290967.shtml"><img alt="Российский рынок: бывшие лидеры роста возглавили падение" title="Российский рынок: бывшие лидеры роста возглавили падение" src="http://pics.top.rbc.ru/top_pics/uniora/40/1238427720_0640.250x200.jpeg" width=250 height=200></a><div class="bigNewsName"><strong><a href="http://top.rbc.ru/finances/30/03/2009/290967.shtml"class=" black">Российский рынок: бывшие лидеры роста возглавили падение</a></strong> </div><a href="http://top.rbc.ru/finances/30/03/2009/290967.shtml" >В понедельник, 30 марта, на российском рынке акций продолжилась коррекция вниз</a>', 'tabItem2':' <a href="http://top.rbc.ru/politics/30/03/2009/290825.shtml"><img alt="В.Ющенко предложил создать в стране двухпалатный парламент" title="В.Ющенко предложил создать в стране двухпалатный парламент" src="http://pics.top.rbc.ru/top_pics/uniora/08/1238414251_0808.250x200.jpeg" width=250 height=200></a><div class="bigNewsName"><strong><a href="http://top.rbc.ru/politics/30/03/2009/290825.shtml"class=" black">В.Ющенко предложил создать в стране двухпалатный парламент</a></strong> </div><a href="http://top.rbc.ru/politics/30/03/2009/290825.shtml" >Об этом он сообщил на всеукраинских муниципальных слушаниях.</a>'};
+overlapTabObj.initialize(0);
+</script>
+<h3 xmlns:metadata="http://rss.rbc.ru/metadata" xmlns:rbc_news="http://www.rbc.ru/" class="lightGreen"><a href="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/rbcdaily.ru/mainnews.rss" class="flRight small" style="margin:0 0 0 5px;"><img src="http://pics.rbc.ru/img/fp_v3/icon_rss.gif" align=absmiddle></a><a href="http://www.rbcdaily.ru/" class="flRight small" style="margin:0;">Все статьи</a><a href="http://www.rbcdaily.ru/">Бизнес-газета РБК daily</a></h3>
+<ul xmlns:metadata="http://rss.rbc.ru/metadata" xmlns:rbc_news="http://www.rbc.ru/" class="noUndlBlock bottom10 left10">
+<li><a href="http://www.rbcdaily.ru/">Приключения иностранцев в России : в Москве открывается Russian Fashion Week</a></li>
+
+<li><a href="http://www.rbcdaily.ru/index2.html?2009/03/30/focus/408195">Помочь или не мешать : ШОС размышляет над "афганской стратегией" США</a></li>
+<li><a href="http://www.rbcdaily.ru/index3.html?2009/03/30/focus/408192">Олимпиада по-китайски : Москва предлагает Пекину участие в Сочи-2014 и АТЭС-2012</a></li>
+<li><a href="http://www.rbcdaily.ru/index4.html?2009/03/30/focus/408198">Взять валюту под контроль : за счет продажи за рубли части экспортной выручки</a></li>
+<li><a href="http://www.rbcdaily.ru/index5.html?2009/03/30/lifestyle/408229">В Москве былой : в доме Спиридонова открылась выставка "Мастер и Маргарита"</a></li>
+<li><a href="http://www.rbcdaily.ru/index6.html?2009/03/30/media/408188">"Петерстар" получил доступ : к доходам от Интернета</a></li>
+</ul>
+<b class="big">Анонсы</b>
+<ul class="commonTextBlock top10 bottom15 left10">
+<li>
+<a href="http://www.rbc.ru/info/press_20090331.shtml" class="black"> 31.03 интернет-конференция Руководителя Федеральной службы государственной регистрации, кадастра и картографии
+
+</a> </li>
+<li>
+<a href="http://quote.ru/" class="black bold"> Quote.ru: Российский рынок: Бывшие лидеры роста возглавили падение
+</a> <a href="http://www.rbc.ru/cgi-bin/redirect.cgi?http://video.rbc.ru/top/rinki.wmv" class="black"> <img alt="Рынки - Видео" align=absmiddle class="icon" src="http://pics.rbc.ru/img/fp_v3/icon_video.gif">
+</a> </li>
+<li>
+<a href="http://www.utro.ru/" class="black"> Utro.ru: Сулим Ямадаев убит. Киллер задержан
+</a> </li>
+</ul>
+<h3 class="lightGreen"><a href="http://www.quote.ru/price/price_main.shtml?0" class="flRight small">Оформить подписку</a>
+
+Краткий (<a href="http://www.quote.ru/price/price_main.shtml?0">80 из 394</a>) выпуск <a href="http://www.quote.ru/price/price_main.shtml?0">новостей РБК</a>:</a>
+
+</h3>
+
+
+
+<div class="bottom10"></div>
+<div>Предыдущие новости можно посмотреть <b><a href="http://www.rbc.ru/news_fp2.shtml" class="undl">здесь</a></b>.</div>
+<img src="http://counter.rambler.ru/top100.cnt?23332" width=1 height=1 border=0>
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<img src='http://counter.yadro.ru/hit;RBCRU?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' width=1 height=1 alt=''>")//--></script><!--/LiveInternet-->
+<!-- tns-counter.ru -->
+<script language="JavaScript">
+    var img = new Image();
+    img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*rbc_ru/ru/CP1251/tmsec=rbc_total/';
+</script>
+<noscript>
+    <img src="http://www.tns-counter.ru/V13a****rbc_ru/ru/CP1251/tmsec=rbc_total/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+
+<!-- (C)2006 Gemius SA - gemiusAudience / rbc.ru / Home Page -->
+
+<script type="text/javascript">
+var pp_gemius_identifier = new String('d1zgvcehWvM1x6q6EyhZhOVzDtYRkVtzIV033Ln.BhP.e7');
+</script>
+<script type="text/javascript" src="http://count.rbc.ru/gemius/xgemius.js"></script>
+
+
+<script language="javascript"><!--skip ();
+u="count.rbc.ru/p5.gif";d=document;nv=navigator;na=nv.appName;p=0;j="N";
+n=(na.substring(0,2)=="Mi")?0:1;y="";
+y+="<img src='http://"+u+"?r="+escape(d.referrer)+"&width="+screen.width+"&height="+screen.height+"&hash="+d.location.hash.substr(1)+"&rn="+Math.random();
+y+="' border=0 width=1 height=1 alt='count'>";
+d.write(y);if(!n) { d.write("<"+"!--"); }//--></script><noscript>
+<img src="http://count.rbc.ru/p5.gif" alt='count' border=0 width=1 height=1 >
+</noscript><script language="javascript1.2"><!--skip ();
+if(!n) { d.write("--"+">"); }//--></script>
+
+</div>
+</div>
+</td>
+<td class="rightBlock">
+<div class="rightColumn">
+<div class="rightTd">
+
+<div class="bottom10 whiteBg">
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><script LANGUAGE="Javascript"><!--
+    var size = ' width=234 height=100 ';
+    var linkrbc_100374= escape("http://www.rbc.ru/ze/a92jay/a9/to?sid=firstpage_graph2.20090327192926.100374&lid=firstpage_graph2&id=100374&code=!http%3A%2F%2F9338000.ru%2Fspecial");
+    var c13=String.fromCharCode(10);
+    var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) 
+{
+    var r=/\D(\d+)\.\d+/.exec(plugin.description);
+    plugin=(r.length>1 && r[1]>=8); r=void(0);
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
+        && (navigator.userAgent.indexOf("Windows 95")>=0 
+        || navigator.userAgent.indexOf("Windows 98")>=0 
+        || navigator.userAgent.indexOf("Windows NT")>=0)) 
+{
+    document.write('<scr'+'ipt LANGUAGE=VBscr'+'ipt> '+c13);
+    document.write('on error resume next '+c13);
+    document.write('plugin = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) '+c13);
+    document.write('</sc'+'ript> '+c13);
+}
+if ( plugin && navigator.userAgent )  
+{
+    var flash_100374='';    flash_100374+='<OBJECT classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"';
+    flash_100374+='codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" ';
+    flash_100374+=' ' + size + ' ID=file>';
+    var seed=Math.round(Math.random()*65535);
+    flash_100374+=' <PARAM NAME="movie" value="http://pics.rbc.ru/6eh9/j/7ykasy/ebhahycbnao/gbaadhesnuoqy/234-100.swf?link1='+linkrbc_100374+'&seed='+seed+'"><PARAM NAME="quality" VALUE="high"><PARAM NAME="wmode" VALUE="opaque">';
+    flash_100374+=' <EMBED src="http://pics.rbc.ru/6eh9/j/7ykasy/ebhahycbnao/gbaadhesnuoqy/234-100.swf?link1='+linkrbc_100374+'&seed='+seed+'" quality="high" wmode="opaque" ';
+    flash_100374+=' ' + size + ' swLiveConnect=FALSE ';
+    flash_100374+=' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">';
+    flash_100374+=' </EMBED>';
+    flash_100374+=' </OBJECT>'; if('show_flash' in window) {
+        window.show_flash(flash_100374);
+    } else {
+        document.write(flash_100374);
+    }
+    flash_100374='';
+}
+else
+{document.write('<a href="http://www.rbc.ru/6ev9q3j/yiga9b/go?sid=firstpage_graph2.20090327192926.100374&lid=firstpage_graph2&id=100374&code=!http%3A%2F%2F9338000.ru%2Fspecial" target="_blank"><img border=0 src="http://pics.rbc.ru/cej/9q/jf/y3/ab/ebhahycbnao/gbaadhesnuoqy/234-100.gif" width="234" height="100" alt=""></a>');
+}
+//--></script><NOscript><a href="http://www.rbc.ru/6ev9q3j/yiga9b/go?sid=firstpage_graph2.20090327192926.100374&lid=firstpage_graph2&id=100374&code=!http%3A%2F%2F9338000.ru%2Fspecial" target="_blank"><img border=0 src="http://pics.rbc.ru/cej/9q/jf/y3/ab/ebhahycbnao/gbaadhesnuoqy/234-100.gif" width="234" height="100" alt=""></a></Noscript>
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage_spec_p2" empty="true" style="display:none"></a>
+<br>
+</div>
+<div class="rateContainer">
+<table width=100% class="rate">
+
+<TR>
+<TD width=50% nowrap="nowrap"><b>Курсы валют на&nbsp;</b></TD>
+<td width=10%><b>30.03</b></td>
+
+<TD align=right width=20%><B>Спрос</B></TD>
+<TD align=right width=20%><B>Предл.</B></TD>
+</TR>
+<TR>
+<TD><div class="indexes green"><i></i><span><A HREF="http://www.rbc.ru/cash/">Нал. USD</A></span></div>
+</TD>
+<TD>20:17</TD>
+<TD align=right>33.724</TD>
+<TD align=right>34.002</TD>
+</TR>
+<TR>
+
+<TD><div class="indexes green"><i></i><span><A HREF="http://www.rbc.ru/cash/msk_EUR_time_desc.html">Нал. EUR</A></span></div>
+</TD>
+<TD>20:17</TD>
+<TD align=right>44.733</TD>
+<TD align=right>45.103</TD>
+</TR>
+<TR>
+<TD><div class="indexes green"><i></i><span><A HREF="http://stock.rbc.ru/demo/selt.0/intraday/USD000000TOD.rus.shtml?show=intra3">USD/TOD_UTS</A></span></div>
+</TD>
+<TD>14:59</TD>
+<TD align=right>34.0115</TD>
+
+<TD align=right>34.03</TD>
+</TR>
+<TR>
+<TD><div class="indexes red"><i></i><span><A HREF="http://stock.rbc.ru/demo/forex.9/daily/EUR_USD.rus.shtml?show=1M">EUR/USD</A></span></div>
+</TD>
+<TD>20:15</TD>
+<TD align=right>1.3143</TD>
+<TD align=right>1.3148</TD>
+</TR>
+<tr><td height=5 colspan=4></td></tr>
+<TR>
+<TD colspan=2><b>Мировые индексы</b></TD>
+
+<TD align=right><B>Знач.</B></TD>
+<TD align=right><B>Изм.</B></TD>
+</TR>
+<TR>
+<TD><div class="indexes green"><i></i><span><A HREF="http://stock.rbc.ru/demo/cb.0/daily/USD.rus.shtml?show=3M">USD ЦБ РФ</A></span></div>
+</TD>
+<TD>31/03</TD>
+<TD align=right>34.0134</TD>
+<TD align=right class="green">0.6001</TD>
+</TR>
+<TR>
+
+<TD><div class="indexes red"><i></i><span><A HREF="http://stock.rbc.ru/demo/cb.0/daily/EUR.rus.shtml?show=3M">EUR ЦБ РФ</A></span></div>
+</TD>
+<TD>31/03</TD>
+<TD align=right>44.9419</TD>
+<TD align=right class="red">-0.3732</TD>
+</TR>
+<TR>
+<TD><div class="indexes green"><i></i><span><A HREF="http://stock.rbc.ru/demo/cb.5/daily/USDEUR_BASKET.rus.shtml?show=3M">USD+EUR ЦБ РФ</A></span></div>
+</TD>
+<TD>31/03</TD>
+<TD align=right>38.9312</TD>
+
+<TD align=right class="green">0.1621</TD>
+</TR>
+<TR>
+<TD><div class="indexes red"><i></i><span><A HREF="http://stock.rbc.ru/demo/index.0/intraday/DJI.rus.shtml?show=intra3">DJIA</A></span></div>
+</TD>
+<TD>20:16</TD>
+<TD align=right>7496.207</TD>
+<TD align=right class="red">-3.60%</TD>
+</TR>
+<TR>
+<TD><div class="indexes red"><i></i><span><A HREF="http://stock.rbc.ru/demo/index.0/intraday/NASD.rus.shtml?show=intra3">NASD</A></span></div>
+
+</TD>
+<TD>20:16</TD>
+<TD align=right>1492.85</TD>
+<TD align=right class="red">-3.39%</TD>
+</TR>
+<TR>
+<TD><div class="indexes red"><i></i><span><A HREF="http://stock.rbc.ru/demo/micex.0/daily/MICEXINDEXCF.rus.shtml">ММВБ</A></span></div>
+</TD>
+<TD>18:45</TD>
+<TD align=right>763.36</TD>
+<TD align=right class="red">-6.37%</TD>
+
+</TR>
+<TR>
+<TD><div class="indexes red"><i></i><span><A HREF="http://stock.rbc.ru/demo/rts.1/daily/RTSI.rus.shtml">РТС</A></span></div>
+</TD>
+<TD>18:00</TD>
+<TD align=right>682.91</TD>
+<TD align=right class="red">-5.30%</TD>
+</TR>
+<TR>
+<TD><div class="indexes red"><i></i><span>Нефть Brent (ICE)</span></div>
+</TD>
+<TD>20:16</TD>
+
+<TD align=right>48.99</TD>
+<TD align=right class="red">-5.75%</TD>
+</TR>
+<tr><td height=5 colspan=4></td></tr>
+<TR>
+<TD><a href="http://pogoda.rbc.ru"><b>Погода</b></a></TD>
+<TD align=right><B>День</B></TD>
+<TD align=right><B>Ночь</B></TD>
+<TD align=right><B>Ветер</B></TD>
+</TR>
+<TR>
+
+<TD><div class="indexes sun_clou"><i></i><span><a href="http://pogoda.rbc.ru/weather/moscow">Москва</a></span></div>
+</TD>
+<TD align=right>0..2</TD>
+<TD align=right>0..2</TD>
+<TD align=right><span title="Восточный, 4 м/с"><i class="wind_e">4</i></span></TD>
+</TR>
+
+</table>
+</div>
+<script>
+place_tickers(document.cookie);
+</script>
+<div class="small greenBg saveData">
+<b>20:28&nbsp;30/03/2009</b>
+
+<a href="http://data.rbc.ru/cgi-bin/mk_custom_table.cgi">Ваши&nbsp;настройки</a><br>
+</div>
+<div class="top10 bottom10 whiteBg">
+
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><script LANGUAGE="Javascript"><!--
+    var size = ' width=234 height=200 ';
+    var linkrbc_97005= escape("http://www.rbc.ru/9eb93tj/yy5/az/to?sid=firstpage_graph.default.20090119165909.97005&lid=firstpage_graph&id=97005&code=!http%3A%2F%2Ftionline.ru%2F%3Ffrom%3Dm1");
+    var c13=String.fromCharCode(10);
+    var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) 
+{
+    var r=/\D(\d+)\.\d+/.exec(plugin.description);
+    plugin=(r.length>1 && r[1]>=8); r=void(0);
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
+        && (navigator.userAgent.indexOf("Windows 95")>=0 
+        || navigator.userAgent.indexOf("Windows 98")>=0 
+        || navigator.userAgent.indexOf("Windows NT")>=0)) 
+{
+    document.write('<scr'+'ipt LANGUAGE=VBscr'+'ipt> '+c13);
+    document.write('on error resume next '+c13);
+    document.write('plugin = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) '+c13);
+    document.write('</sc'+'ript> '+c13);
+}
+if ( plugin && navigator.userAgent )  
+{
+    var flash_97005=''; flash_97005+='<OBJECT classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"';
+    flash_97005+='codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" ';
+    flash_97005+=' ' + size + ' ID=file>';
+    var seed=Math.round(Math.random()*65535);
+    flash_97005+=' <PARAM NAME="movie" value="http://pics.rbc.ru/ne/09i/jn/y54a/a/dgbhdhhyhi/fjhaaflwigiw/Ti234-200.swf?link1='+linkrbc_97005+'&seed='+seed+'"><PARAM NAME="quality" VALUE="high"><PARAM NAME="wmode" VALUE="opaque">';
+    flash_97005+=' <EMBED src="http://pics.rbc.ru/ne/09i/jn/y54a/a/dgbhdhhyhi/fjhaaflwigiw/Ti234-200.swf?link1='+linkrbc_97005+'&seed='+seed+'" quality="high" wmode="opaque" ';
+    flash_97005+=' ' + size + ' swLiveConnect=FALSE ';
+    flash_97005+=' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">';
+    flash_97005+=' </EMBED>';
+    flash_97005+=' </OBJECT>';  if('show_flash' in window) {
+        window.show_flash(flash_97005);
+    } else {
+        document.write(flash_97005);
+    }
+    flash_97005='';
+}
+else
+{document.write('<a href="http://www.rbc.ru/jehh9b/jujy7ha/0/go?sid=firstpage_graph.default.20090119165909.97005&lid=firstpage_graph&id=97005&code=!http%3A%2F%2Ftionline.ru%2F%3Ffrom%3Dm1" target="_blank"><img border=0 src="http://pics.rbc.ru/aea/9/jm/yiak/dgbhdhhyhi/fjhaaflwigiw/Ti234-200.gif" width="234" height="200" alt=""></a>');
+}
+//--></script><NOscript><a href="http://www.rbc.ru/jehh9b/jujy7ha/0/go?sid=firstpage_graph.default.20090119165909.97005&lid=firstpage_graph&id=97005&code=!http%3A%2F%2Ftionline.ru%2F%3Ffrom%3Dm1" target="_blank"><img border=0 src="http://pics.rbc.ru/aea/9/jm/yiak/dgbhdhhyhi/fjhaaflwigiw/Ti234-200.gif" width="234" height="200" alt=""></a></Noscript>
+</div>
+<div class="whiteBg">
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><script LANGUAGE="Javascript"><!--
+    var size = ' width=234 height=120 ';
+    var linkrbc_91916= escape("http://www.rbc.ru/9ek97j4yybae2/go?sid=focus_fpreg.default.20081009150003.91916&lid=focus_fpreg&id=91916&code=!http%3A%2F%2Fwww.drinktime.ru%2F");
+    var c13=String.fromCharCode(10);
+    var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) 
+{
+    var r=/\D(\d+)\.\d+/.exec(plugin.description);
+    plugin=(r.length>1 && r[1]>=8); r=void(0);
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
+        && (navigator.userAgent.indexOf("Windows 95")>=0 
+        || navigator.userAgent.indexOf("Windows 98")>=0 
+        || navigator.userAgent.indexOf("Windows NT")>=0)) 
+{
+    document.write('<scr'+'ipt LANGUAGE=VBscr'+'ipt> '+c13);
+    document.write('on error resume next '+c13);
+    document.write('plugin = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) '+c13);
+    document.write('</sc'+'ript> '+c13);
+}
+if ( plugin && navigator.userAgent )  
+{
+    var flash_91916=''; flash_91916+='<OBJECT classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"';
+    flash_91916+='codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" ';
+    flash_91916+=' ' + size + ' ID=file>';
+    var seed=Math.round(Math.random()*65535);
+    flash_91916+=' <PARAM NAME="movie" value="http://pics.rbc.ru/yeo/9kjrytac/ebhchqhfyas/fjbjbgodjplv/DT_234-120.swf?link1='+linkrbc_91916+'&seed='+seed+'"><PARAM NAME="quality" VALUE="high"><PARAM NAME="wmode" VALUE="opaque">';
+    flash_91916+=' <EMBED src="http://pics.rbc.ru/yeo/9kjrytac/ebhchqhfyas/fjbjbgodjplv/DT_234-120.swf?link1='+linkrbc_91916+'&seed='+seed+'" quality="high" wmode="opaque" ';
+    flash_91916+=' ' + size + ' swLiveConnect=FALSE ';
+    flash_91916+=' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">';
+    flash_91916+=' </EMBED>';
+    flash_91916+=' </OBJECT>';  if('show_flash' in window) {
+        window.show_flash(flash_91916);
+    } else {
+        document.write(flash_91916);
+    }
+    flash_91916='';
+}
+else
+{document.write('<a href="http://www.rbc.ru/kegx9g4jzy9a8/go?sid=focus_fpreg.default.20081009150003.91916&lid=focus_fpreg&id=91916&code=!http%3A%2F%2Fwww.drinktime.ru%2F" target="_blank"><img border=0 src="http://pics.rbc.ru/ke/u9tj6/ytary/ebhchqhfyas/fjbjbgodjplv/DT_234-120.gif" width="234" height="120" alt=""></a>');
+}
+//--></script><NOscript><a href="http://www.rbc.ru/kegx9g4jzy9a8/go?sid=focus_fpreg.default.20081009150003.91916&lid=focus_fpreg&id=91916&code=!http%3A%2F%2Fwww.drinktime.ru%2F" target="_blank"><img border=0 src="http://pics.rbc.ru/ke/u9tj6/ytary/ebhchqhfyas/fjbjbgodjplv/DT_234-120.gif" width="234" height="120" alt=""></a></Noscript>
+</div>
+
+<h3>Поиск</h3>
+<div class="greenBlock">
+<form action="http://www.rbc.ru/cgi-bin/yandsearch">
+<input type=hidden name="sub" value="all"><input type=hidden name="how" value="tm">
+<input name="text" type=text style="width:150px; color:#000;" maxlength="80">&nbsp;<input type=submit name="^" value="найти">
+<div class="top10"><nobr><input type=radio name="where" class="vertMiddle" value="text" checked>&nbsp;<label><b>в&nbsp;новостях</b></label></nobr>&nbsp; <nobr><input type=radio name="where" value="quote" class="vertMiddle">&nbsp;<label><b>в&nbsp;компаниях</b></label></nobr></div>
+</form>
+</div>
+<h3><a href="http://www.pochta.ru/?rid=RBC">Почта</a></h3>
+<form method=POST action="http://www.pochta.ru/login.php" onSubmit="return isEMailAddr(this.elements['user']);">
+
+<input type=hidden name="reason" value="login">
+<div class="greenBlock">
+<nobr><input type=text name="user" style="width:100px;" class="vertMiddle" value="имя" onFocus="if(this.value==this.defaultValue) this.value=''" onBlur="if(!this.value) this.value=this.defaultValue">&nbsp;<big><b>@</b></big>&nbsp;<select name="domain" style="width:100px;" class="vertMiddle">
+<option value="pochta.ru">pochta.ru</option>
+<option value="hotbox.ru">hotbox.ru</option>
+<option value="rbcmail.ru">rbcmail.ru</option>
+<option value="pisem.net">pisem.net</option>
+<option value="front.ru">front.ru</option>
+<option value="land.ru">land.ru</option>
+<option value="mail333.com">mail15.com</option>
+
+<option value="mail333.com">mail333.com</option>
+<option value="fromru.com">fromru.com</option>
+<option value="pochtamt.ru">pochtamt.ru</option>
+</select>
+</nobr>
+<div class="top10"><input type=password name="pass" value="пароль" class="gray" style="width:100px; margin-right:22px;" onFocus="if(this.value==this.defaultValue) this.value=''" onBlur="if(!this.value) this.value=this.defaultValue"><input type=submit value="войти" style="width:88px;"></div>
+<div class="top10 small" align=right><a href="http://www.pochta.ru/regform.php?rid=RBC">Зарегистрироваться</a></div>
+</div>
+</form>
+<h3><a href="http://marketing.rbc.ru">РБК - Исследования рынков</a></h3>
+<div class="greenBlock">
+<ul class="thin">
+
+<li><a href="http://marketing.rbc.ru/research/562949956961726.shtml">Российский рынок стройматериалов: влияние кризиса на отрасль</a></li>
+<li><a href="http://marketing.rbc.ru/research/562949956961696.shtml">Нефтеперерабатывающая отрасль России и рынок нефтепродуктов</a></li>
+<li><a href="http://marketing.rbc.ru/research/562949957121077.shtml">Рынок прямых инвестиций в 2008 г.</a></li>
+</ul>
+</div>
+<h3><a href="http://www.armd.ru/">АРМАДА (ИТ услуги)</a></h3>
+<div class="greenBlock">
+<ul class="thin">
+<li><a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.armd.ru/ru/about_group/new_products_and_services/uslugi/">ИТ-услуги</a></li>
+<li><a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.armd.ru/ru/about_group/new_products_and_services/po/">Программное обеспечение</a></li>
+<li><a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.armd.ru/ru/about_group/new_products_and_services/ap/">Аппаратное обеспечение</a></li>
+
+<li><a href="http://www.armd.ru/ru/about_group/new_products_and_services/new_upravlenie/" class="red">Управление проектами</a></li>
+<form action="http://www.rbc.ru/cgi-bin/jump" method=post class="top10"><select name="jump2" id="jump2" class="online" style="width: 16em;">
+<option value="soft00" selected>Выбрать решение</option>
+<option value="soft18">Интернет-решения</option>
+<option value="soft16">ИТ-Консалтинг</option>
+<option value="soft19">Системная интеграция</option>
+<option value="soft20">Корпоративные ИТ-решения</option>
+<option value="soft21">Мультимедийные презентации</option>
+<option value="soft23">Управление проектами</option>
+
+<option value="soft24">Системы электронной торговли</option>
+<option value="soft25">Свободное ПО (Linux)</option>
+<option value="soft26">Комплексная ИБ</option>
+<option value="soft27">ИТ-Аутсорсинг</option></select>&nbsp;<input name="Search" value="go" class="online" type=submit></form>
+</ul>
+</div>
+<h3><a href="http://www.seminar.rbc.ru">Семинары и тренинги</a></h3>
+<div class="greenBlock">
+<ul class="thin">
+<li><a href="http://seminar.rbc.ru/business/events.shtml?2007/12/13/f98796_03042009">Жесткие переговоры: все для победы!</a></li>
+<li><a href="http://seminar.rbc.ru/business/events.shtml?2008/02/19/f104200_07042009">Сбалансированная система показателей</a></li>
+
+<li><a href="http://seminar.rbc.ru/business/events.shtml?2009/02/11/f142778_10042009">Эффективность работы с торговой сетью</a></li>
+</ul>
+</div>
+<h3><a href="http://www.event.rbc.ru">Конференции/ Events</a></h3>
+<div class="greenBlock">
+<ul class="thin">
+<li><a href="http://www.event.rbc.ru/">Календарь событий на 2009 г.</a></li>
+<li><a href="http://www.conf.rbc.ru"><span class="red">Бизнес - конференция РБК в Берлине. Зарегистрируйся!</span></a></li>
+<li><a href="http://finolymp.ru/">Финансовый Олимп 2008-подай заявку</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+</td>
+<tr>
+</table>
+</div>
+<div class="bottomBlocks">
+<table width=100% style="position:relative">
+<tr>
+<td class="leftPart greenRBorder" width=50%>
+<h3 class="lightGreen"><a href="http://top.rbc.ru/economics/" class="flRight small">Все новости</a><a href="http://top.rbc.ru/economics/">Экономика</a></h3>
+<div class="imgNewsBlock">
+<div>
+<a href="http://top.rbc.ru/economics/30/03/2009/290952.shtml"><img alt="Индекс ММВБ упал по итогам торгов более чем на 6%" title="Индекс ММВБ упал по итогам торгов более чем на 6%" src="http://pics.top.rbc.ru/top_pics/uniora/57/1238425171_0457.150x120.jpeg" width=150 height=120 class="pic"></a>
+<div class="ulList commonTextBlock">
+<span><a class="black" href="http://top.rbc.ru/economics/30/03/2009/290952.shtml">Индекс ММВБ упал по итогам торгов более чем на 6%</a>
+
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/economics/30/03/2009/290829.shtml">Правительство выделит АВТОВАЗу 25 млрд руб. </a>
+<a href="http://videoarchive.rbc.ru/archive/2009/03/30/vmz_bz_avtovaz_1500.wmv"><img src="http://pics.rbc.ru/img/fp_v3/icon_video.gif" class="icon" align=absmiddle></a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/economics/30/03/2009/290800.shtml">Акции российских компаний торгуются в отрицательной зоне</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/economics/30/03/2009/290798.shtml">В транспортную отрасль РФ в 2009г. поступит 373 млрд руб. </a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/economics/30/03/2009/290791.shtml">Удорожание доллара на этой неделе продолжится</a>
+</span><br>
+</div>
+</div>
+</div>
+
+</td>
+<td class="rightPart" width=50%>
+<h3 class="lightGreen"><a href="http://top.rbc.ru/incidents/" class="flRight small">Все новости</a><a href="http://top.rbc.ru/incidents/">Происшествия</a></h3>
+<div class="imgNewsBlock">
+<div>
+<a href="http://top.rbc.ru/incidents/30/03/2009/290824.shtml"><img alt="В ОАЭ подтвердили факт гибели Сулима Ямадаева" title="В ОАЭ подтвердили факт гибели Сулима Ямадаева" src="http://pics.top.rbc.ru/top_pics/uniora/79/1238416522_0879.150x120.jpeg" width=150 height=120 class="pic"></a>
+<div class="ulList commonTextBlock">
+<span><a class="black" href="http://top.rbc.ru/incidents/30/03/2009/290824.shtml">В ОАЭ подтвердили факт гибели Сулима Ямадаева</a>
+<a href="http://videoarchive.rbc.ru/archive/2009/03/30/vmz_bz_gibel_1530.wmv"><img src="http://pics.rbc.ru/img/fp_v3/icon_video.gif" class="icon" align=absmiddle></a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/incidents/30/03/2009/290662.shtml">В результате давки на стадионе в Кот-д&#039;Ивуаре погибли 22 человека</a>
+</span><br>
+
+<span><a class="black" href="http://top.rbc.ru/incidents/29/03/2009/290595.shtml">В Дубае совершено покушение на экс-командира батальона &quot;Восток&quot;</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/incidents/29/03/2009/290593.shtml">Теракт в Абхазии: пострадали двое военнослужащих</a>
+</span><br>
+<span><a class="black" href="http://top.rbc.ru/incidents/29/03/2009/290557.shtml">Число жертв прорыва дамбы в Индонезии возросло до 91 человека</a>
+</span><br>
+</div>
+</div>
+</div>
+</td></tr>
+<tr><td class="leftPart greenRBorder">
+<h3 class="lightGreen"><a href="http://sport.rbc.ru/" class="flRight small">Все новости</a><a href="http://sport.rbc.ru">Спорт</a></h3>
+
+<div class="imgNewsBlock" style="padding-bottom:0pt;">
+<div>
+<a href="http://sport.rbc.ru/"><img alt="Хиддинк стал заслуженным тренером России" title="Хиддинк стал заслуженным тренером России" src="http://pics.sport.rbc.ru/sport_pics/uniora/80/1238414805_0780.250x200.jpeg" width=250 height=200 class="pic" style="margin-bottom:0;"></a>
+<div class="ulList commonTextBlock"">
+<span><a class="black" href="http://sport.rbc.ru/">Хиддинк стал заслуженным тренером России</a> </span><br>
+<span><a class="black" href="http://sport.rbc.ru/football/article/30/03/2009/229083.shtml">Умер Владимир Федотов</a> </span><br>
+<span><a class="black" href="http://sport.rbc.ru/football/article/30/03/2009/229064.shtml">С.Семак: &quot;Сыграли как смогли&quot;</a> </span><br>
+<span><a class="black" href="http://sport.rbc.ru/football/article/30/03/2009/229063.shtml">Г.Хиддинк: &quot;В Лихтенштейне будет труднее&quot;</a> </span><br>
+
+<span><a class="black" href="http://sport.rbc.ru/formula/article/29/03/2009/229043.shtml">&quot;Браун&quot; сделал дубль в первой гонке сезона</a> </span><br>
+</div>
+</div>
+</div>
+</td>
+<td class="rightPart">
+
+<h3 class="lightGreen"><a href="http://www.rbctv.ru/live/" class="flRight"><img src="http://pics.rbc.ru/img/fp_v3/live.gif"alt="Прямая трансляция"></a><a href="http://www.rbctv.ru/">РБК-ТВ</a></h3>
+<table class="commonTextBlock">
+<tr>
+<td width=50% valign=top align=center style="padding: 5px 5px 0;">
+<div>
+
+<b>20:00 <a onClick="window.open('http://www.rbc.ru/img/flash/mediaplayer.shtml?u10460626dfe','','location=no,menubar=no,toolbar=no,resizable=yes,width=445,height=435'); return false;" href="http://www.rbc.ru/img/flash/mediaplayer.shtml?u10460626dfe" target="_blank"> Новости</a>:</b>
+<div style="width:150px;"><a onClick="window.open('http://www.rbc.ru/img/flash/mediaplayer.shtml?u10460626dfe','','location=no,menubar=no,toolbar=no,resizable=yes,width=445,height=435'); return false;" href="http://www.rbc.ru/img/flash/mediaplayer.shtml?u10460626dfe" target="_blank"><div class="pAbs"><div class="play"></div></div><img src="http://pics.rbc.ru/img/rbctv/video_img/2009/03/30/news2000_f1.jpg" style="margin: 5px 0;" width=150 alt="Новости" vspace="5"></a></div>
+</div>
+<div> <a onClick="window.open('http://www.rbc.ru/img/flash/mediaplayer.shtml?u10460626dfe','','location=no,menubar=no,toolbar=no,resizable=yes,width=445,height=435'); return false;" href="http://www.rbc.ru/img/flash/mediaplayer.shtml?u10460626dfe" class="noUndl" target="_blank">Н.Михалков принял предложение остаться на посту председателя Союза кинематографистов</a> </div> </td>
+<td width=50% valign=top align=center style="padding: 5px 5px 0;"> <div>
+<b>18:36 <a href="http://www.rbc.ru/img/flash/mediaplayer.shtml?u1045951bbcb" onclick="window.open('http://www.rbc.ru/img/flash/mediaplayer.shtml?u1045951bbcb','','location=no,menubar=no,toolbar=no,resizable=yes,width=445,height=435'); return false;" target="_blank"> Новости компаний</a>: </b>
+
+<div style="width:150px;"><a href="http://www.rbc.ru/img/flash/mediaplayer.shtml?u1045951bbcb" onClick="window.open('http://www.rbc.ru/img/flash/mediaplayer.shtml?u1045951bbcb','','location=no,menubar=no,toolbar=no,resizable=yes,width=445,height=435'); return false;" target="_blank"><div class="pAbs"><div class="play"></div></div><img src="http://pics.rbc.ru/img/rbctv/video_img/2009/03/30/novosti_companii1836_f1.jpg" style="margin: 5px 0;" width=150 alt="Новости компаний, Компании" vspace="5"></a></div>
+</div>
+<div> <a onClick="window.open('http://www.rbc.ru/img/flash/mediaplayer.shtml?u1045951bbcb','','location=no,menubar=no,toolbar=no,resizable=yes,width=445,height=435'); return false;" href="http://www.rbc.ru/img/flash/mediaplayer.shtml?u1045951bbcb" class="noUndl" target="_blank">Н.Джабраилов, УК <Атланта>: Мы планируем создание двух достаточно больших фондов объемом 300 млн. рублей</a> </div> </td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="otherBlocks">
+
+
+
+
+
+
+
+
+
+<script src="http://pics.rbc.ru/js/api.js"></script>
+<table cellpadding=0 cellspacing=0 width=100%>
+<tr><td><img src="http://pics.rbc.ru/img/e.gif" width=1 height=8 alt=""></td></tr>
+<tr><td><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align="center" bgcolor="#4a1f79"><a href="http://www.rbc.ru/6e4k9qj6vywjaj2/go?sid=firstpage_news.20090327174441.100343&lid=firstpage_news&id=100343&code=!http%3A%2F%2Fhc.ru%2Fcounter%2Freferrer%3Frefgrp%3Drbcmir" target="_blank"><img border=0 src="http://pics.rbc.ru/xe/9xrjg2y/ag0/dcgjqnpsli/gbaadedfdupdx/Robots_950-60.gif" width="950" height="60" alt=""></a></td></tr></table></td></tr>
+</table>
+<table cellpadding=0 cellspacing=0 width=100%>
+
+<tr class="darkgreentab">
+<td width=150 rowspan=2 align=center><a href="http://www.quote.ru/"><img src="http://pics.rbc.ru/img/ver2004/lg_quote.gif" width=99 height=28 border=0 alt="Quote.ru" hspace="25"></a></td>
+<td width=21 rowspan=2 style="background-color:#D1E0C1"><img src="http://pics.rbc.ru/img/ver2004/lg_00.gif" width=21 height=28 border=0></td>
+<td><img src="http://pics.rbc.ru/img/e.gif" width=1 height=7 alt=""></td>
+</tr>
+<tr class="about">
+<td width=100%>
+<table cellpadding=0 cellspacing=0 class="explan" width=100%>
+<tr class="green middlegreentab"><td>Все о фондовых и товарных рынках</td><td align=right>30 марта 2009</td><td width=234><img src="http://pics.rbc.ru/img/e.gif" width=234 height=1 alt=""></td></tr>
+</table>
+</td>
+</tr>
+<tr><td colspan=3><img src="http://pics.rbc.ru/img/e.gif" width=1 height=4 alt=""></td></tr>
+</table>
+<table cellpadding=0 cellspacing=0 class="main" width=100%>
+
+<tr>
+<td class="greentab leftColumnWidth">
+<h4 class="lightGreen"><a href="http://www.quote.ru/">Акции</a></h4>
+<ul class="nodot">
+<li><a href="http://www.quote.ru/stocks/fond/today_free.shtml">Новости рынка</a></li>
+<li><a href="http://www.quote.ru/stocks/comments/index.shtml?shares">Комментарии</a></li>
+<li><a href="http://www.quote.ru/stocks/base_emitent.shtml">База эмитентов</a></li>
+<li><a href="http://www.rbc.ru/info/info_globus.shtml">База предприятий</a></li>
+<li><a href="http://otc-stock.rbc.ru/targets/index.jsp?skin=newquote&web=1">Прогнозы цен</a></li>
+<li><a href="http://www.quote.ru/market_leaders.shtml?QUOTE_SHARES_LEADERS_TODAY" onclick="window.open('http://www.quote.ru/market_leaders.shtml?QUOTE_SHARES_LEADERS_TODAY','', 'width=680,height=480,scrollbars=yes,resizable=yes,toolbar=no'); return(false);" target="_blank">Лидеры рынка</a></li>
+
+<li><a href="http://www.quote.ru/stocks/ipo/">Новости IPO</a></li>
+<li><a href="http://www.quote.ru/stocks/merge/">Слияния и поглощения</a></li>
+</ul>
+<h4 class="lightGreen"><a href="http://www.quote.ru/bonds/">Облигации</a></h4>
+<ul class="nodot">
+<li><a href="http://www.quote.ru/bonds/oblig_news/">Новости рынка</a></li>
+<li><a href="http://www.quote.ru/bonds/comments/index.shtml?obligations">Комментарии</a></li>
+<li><a href="http://www.quote.ru/bonds/calendar/">Размещения</a></li>
+<li><a href="http://www.quote.ru/market_leaders.shtml?QUOTE_BONDS_LEADERS_TODAY" onclick="window.open('http://www.quote.ru/market_leaders.shtml?QUOTE_BONDS_LEADERS_TODAY','', 'width=680,height=480,scrollbars=yes,resizable=yes,toolbar=no'); return(false);" target="_blank">Лидеры рынка</a></li>
+
+</ul>
+<h4 class="lightGreen mBottom4"><a href="http://www.quote.ru/commodities/">Товары</a></h4>
+<h4 class="lightGreen mBottom4"><a href="http://www.quote.ru/research/">Аналитика</a></h4>
+<h4 class="lightGreen mBottom4"><a href="http://www.quote.ru/exchanges/">Биржи</a></h4>
+<ul class="nodot">
+<li><a href="http://stock.rbc.ru/demo/index.0/intraday/index.rus.shtml">Мировые индексы</a></li>
+<li><a href="http://stock.rbc.ru/online/rusindex.0/intraday/index.rus.shtml">Российские индексы</a></li>
+</ul>
+<h4 class="lightGreen"><a href="http://www.quote.ru/mf/" class="red">ПИФы</a></h4>
+<ul class="nodot">
+<li><a href="http://quote-otc.rbc.ru/pif/index.jsp?web=1&skin=quote">База ПИФов</a></li>
+
+<li><a href="http://quote-otc.rbc.ru/149/index.jsp?skin=quote&web=1">Цены паев</a></li>
+<li><a href="http://otc-pif.rbc.ru/pif_calculator/calculator.jsp">Калькулятор паев</a></li>
+</ul>
+<h4 class="lightGreen mBottom4"><a href="http://www.refunder.ru/" class="red">РБК-Refunder</a></h4>
+<h4 class="lightGreen mBottom4"><a href="http://www.quote.ru/conf/">Общение</a></h4>
+<h4 class="lightGreen mBottom4"><a href="http://www.nashidengi.ru">"Наши деньги"</a></h4>
+</td>
+<td class="content commonTextBlock">
+<b><a href="http://www.quote.ru/">Главные новости</a></b> <a href="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/quote.ru/mainnews.rss"><img src="http://pics.rbc.ru/img/fp_v3/icon_rss.gif" align=absmiddle></a>
+<ul>
+
+<li><a href="http://www.quote.ru/">Акции</a>: <a href="http://www.quote.ru/">Российский рынок: Бывшие лидеры роста возглавили падение</a></li>
+<li><a href="http://www.quote.ru/bonds/">Облигации</a>: <a href="http://www.quote.ru/bonds/news.shtml?2009/03/30/32351600">Рынки Европы: Бонды начинают неделю ценовым ростом</a></li>
+<li><a href="http://www.quote.ru/commodities/">Товары</a>: <a href="http://www.quote.ru/commodities/news.shtml?2009/03/30/32351265">IGC: Производство пшеницы в мире в 2009-2010гг. сократится на 5,5%</a></li>
+<li><a href="http://www.quote.ru/research/">Аналитика</a>: <a href="http://www.quote.ru/research/news.shtml?2009/03/30/32351413">Эксперты: Предстоящий саммит G20 ослабляет позиции доллара</a></li>
+<li class="red"><a href="http://www.rbc.ru/info/info_rbcdaily-2009.shtml">"РБК daily" меняет формат и количество полос</a></li>
+
+</ul>
+<b><a href="http://www.quote.ru/stocks/fond/">Лента фондовых новостей:</a></b> <a href="http://static.feed.rbc.ru/rbc/internal/rss.rbc.ru/quote.ru/fondnewsline.rss"><img src="http://pics.rbc.ru/img/fp_v3/icon_rss.gif" align=absmiddle></a><br />
+<div class="top10">
+<b>30 марта</b>
+<ul class="dates">
+<li>19:40 <a href="http://www.quote.ru/stocks/fond/index.shtml?2009/03/30/32351594">АФК "Система" создаст бизнес-единицу для управления башкирским ТЭК, стратегию развития активов утвердит летом.</a>
+<li>19:20 <a href="http://www.quote.ru/stocks/fond/index.shtml?2009/03/30/32351584">Чистая прибыль "Открытых инвестиций" по РСБУ в 2008г. выросла в 2,48 раза - до 1 млн 606 тыс. руб.</a>
+<li>19:06 <a href="http://www.quote.ru/stocks/fond/index.shtml?2009/03/30/32351572">По итогам торгов индекс ММВБ упал более чем на 6%, снижение РТС составило 5,3%.</a>
+
+<li>18:48 <a href="http://www.quote.ru/stocks/fond/index.shtml?2009/03/30/32351553">Дополнение: В.Путин назначил А.Бажанова замминистра сельского хозяйства, освободив от этой должности Ю.Кукуева.</a>
+<li>18:46 <a href="http://www.quote.ru/stocks/fond/index.shtml?2009/03/30/32351554">Чистая прибыль ОГК-3 в 2008г. по РСБУ увеличилась в 3 раза - до 7,23 млрд руб.</a>
+</ul>
+</div>
+<span class="red">Предыдущие новости можно посмотреть <a href="http://www.quote.ru/stocks/fond/free.shtml" class="red">здесь</a>.</span><br /><br />
+<b><a href="http://www.quote.ru/stocks/comments/index.shtml?list_all">Лента комментариев:</a></b><br />
+<div class="top10">
+<b>30 марта</b>
+
+<ul class="dates">
+<li>17:41 <a href="http://www.quote.ru/stocks/comments/2009/03/30/32351422.shtml">УК "Ингосстрах-Инвестиции": Рынок рублевых облигаций будет находиться под давлением внешних и внутренних факторов</a>
+<li>17:12 <a href="http://www.quote.ru/stocks/comments/2009/03/30/32351364.shtml">"Абсолют Банк": Продажи на рынке акций могут продолжиться</a>
+<li>17:09 <a href="http://www.quote.ru/stocks/comments/2009/03/30/32351339.shtml">ГК "АЛОР": Риск переноса позиций по российским акциям на завтра слишком высок</a>
+<li>16:32 <a href="http://www.quote.ru/stocks/comments/2009/03/30/32351251.shtml">ИК "ITinvest": Спешить с агрессивными покупками на рынке акций не стоит</a>
+</ul>
+</div>
+<span class="red">Предыдущие новости можно посмотреть <a href="http://www.quote.ru/stocks/comments/?list_all_free" class="red">здесь</a>.</span><br /><br />
+
+<span class="">Подписаться на продукты Quote.ru можно через раздел <a href="http://www.quote.ru/price/">"Услуги и цены"</a></span><br /><br />
+</td>
+<td width=234>
+<h3><a href="http://credit.rbc.ru/">РБК Кредит</a></h3><div class="greentab"><ul class="thin"><li><a href="http://credit.rbc.ru/recommendation/potreb/2009/03/30/70820.shtml">А.Дмитраков: "Не надо бояться коллекторов"</a></li><li><a href="http://credit.rbc.ru/news/other/2009/03/30/70781.shtml">ЦБ РФ отозвал лицензии еще у двух банков</a></li><li><a href="http://credit.rbc.ru/recommendation/auto/2009/03/26/70657.shtml">Спецпрограммы по автокредитам в условиях кризиса</a></li></ul></div>
+<h3><a href="http://www.rbc.ru/services/">Инструменты</a></h3>
+<div class="greentab">
+<ul>
+<li><a href="http://graph.rbc.ru/">Графики</a></li>
+<li><a href="http://portfolio.rbc.ru/">Портфель</a></li>
+
+<li><a href="http://export.rbc.ru/">Экспорт данных</a></li>
+<li><a href="http://conv.rbc.ru/">Конвертор валют</a></li>
+<li><a href="http://map.rbc.ru/">Карта рынка</a></li>
+<li><a href="http://ta.rbc.ru/">Теханализ</a></li>
+</ul>
+</div>
+<h3>Терминалы</h3>
+<div class="greentab">
+<ul>
+<li><a href="http://www.quotetotal.ru/">QuoteTotal</a></li>
+<li class="red"><b><a href="http://www.quoterate.ru/">QuoteRate - инвестору</a></b></li>
+
+</ul>
+</div>
+<h3>Карта рынка</h3>
+<div style="background-color: #fff; width: 234px; padding: 0px 0px 5px 0px; border:1px solid #eaeaea; overflow:hidden;"><a href="http://map.rbc.ru/"><img src="http://pics.rbc.ru/img/quote/smallmap.gif" border=0 alt="Карта Рынка" width=234 height=146></a></div>
+<img src="http://pics.rbc.ru/img/e.gif" width=1 height=10 alt=""><div align=center><div align="center"><a href="http://www.informer.ru/"><img src="http://pics.rbc.ru/img/grinf/usd_nal_12060_8.gif" width="120" height="60" border="0" alt="Informer.ru"><br><span class="comment">поставьте cебе</span></a></div></div>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+<table cellpadding=0 cellspacing=0 width=100%>
+<tr><td><img src="http://pics.rbc.ru/img/e.gif" width=1 height=8 alt=""></td></tr>
+<tr><td><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td align="center" background="http://pics.rbc.ru/bed9z/j/ay/apv/ebcfdtjicen/fjjgjgbpammy/bgmoney2_-60Z.gif" bgcolor="#ffffff"><script LANGUAGE="Javascript"><!--
+    var size = ' width=100% height=60 ';
+    var linkrbc_99696= escape("http://www.rbc.ru/0ee/97j7y8a/i/go?sid=rbc_cnews.20090313163516.99696&lid=rbc_cnews&id=99696&code=!https%3A%2F%2Frbkmoney.ru%2F");
+    var c13=String.fromCharCode(10);
+    var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+if ( plugin ) 
+{
+    var r=/\D(\d+)\.\d+/.exec(plugin.description);
+    plugin=(r.length>1 && r[1]>=8); r=void(0);
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
+        && (navigator.userAgent.indexOf("Windows 95")>=0 
+        || navigator.userAgent.indexOf("Windows 98")>=0 
+        || navigator.userAgent.indexOf("Windows NT")>=0)) 
+{
+    document.write('<scr'+'ipt LANGUAGE=VBscr'+'ipt> '+c13);
+    document.write('on error resume next '+c13);
+    document.write('plugin = ( IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) '+c13);
+    document.write('</sc'+'ript> '+c13);
+}
+if ( plugin && navigator.userAgent )  
+{
+    var flash_99696=''; flash_99696+='<OBJECT classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"';
+    flash_99696+='codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" ';
+    flash_99696+=' ' + size + ' ID=file>';
+    var seed=Math.round(Math.random()*65535);
+    flash_99696+=' <PARAM NAME="movie" value="http://pics.rbc.ru/ae/9/jq8ydau/ebcfdtjicen/fjjgjgbpammy/money2_825-60.swf?link1='+linkrbc_99696+'&seed='+seed+'"><PARAM NAME="quality" VALUE="high"><PARAM NAME="wmode" VALUE="opaque">';
+    flash_99696+=' <EMBED src="http://pics.rbc.ru/ae/9/jq8ydau/ebcfdtjicen/fjjgjgbpammy/money2_825-60.swf?link1='+linkrbc_99696+'&seed='+seed+'" quality="high" wmode="opaque" ';
+    flash_99696+=' ' + size + ' swLiveConnect=FALSE ';
+    flash_99696+=' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">';
+    flash_99696+=' </EMBED>';
+    flash_99696+=' </OBJECT>';  if('show_flash' in window) {
+        window.show_flash(flash_99696);
+    } else {
+        document.write(flash_99696);
+    }
+    flash_99696='';
+}
+else
+{document.write('<a href="http://www.rbc.ru/ie1s9hjqyeday/to?sid=rbc_cnews.20090313163516.99696&lid=rbc_cnews&id=99696&code=!https%3A%2F%2Frbkmoney.ru%2F" target="_blank"><img border=0 src="http://pics.rbc.ru/sew9xujly/9az/ebcfdtjicen/fjjgjgbpammy/money2_-60Z.gif" width="760" height="60" alt=""></a>');
+}
+//--></script><NOscript><a href="http://www.rbc.ru/ie1s9hjqyeday/to?sid=rbc_cnews.20090313163516.99696&lid=rbc_cnews&id=99696&code=!https%3A%2F%2Frbkmoney.ru%2F" target="_blank"><img border=0 src="http://pics.rbc.ru/sew9xujly/9az/ebcfdtjicen/fjjgjgbpammy/money2_-60Z.gif" width="760" height="60" alt=""></a></Noscript></td></tr></table></td></tr>
+<tr><td><img src="http://pics.rbc.ru/img/e.gif" width=1 height=5 alt=""></td></tr>
+</table>
+<table cellpadding=0 cellspacing=0 width=100%>
+<tr class="darkgreentab">
+<td width=150 rowspan=2 align=center><a href="http://www.cnews.ru/"><img src="http://pics.rbc.ru/img/ver2004/lg_cnews.gif" width=132 height=28 hspace="9" alt="Cnews"></a></td>
+<td width=21 rowspan=2 style="background-color:#D1E0C1"><img src="http://pics.rbc.ru/img/ver2004/lg_00.gif" width=21 height=28 alt=""></td>
+<td><img src="http://pics.rbc.ru/img/e.gif" width=1 height=7 alt=""></td>
+</tr>
+<tr class="about">
+
+<td width=100%>
+<table cellpadding=0 cellspacing=0 class="explan" width=100%>
+<tr class="green middlegreentab"><td>Все о высоких технологиях</td><td align=right>30 марта 2009</td><td width=234><img src="http://pics.rbc.ru/img/e.gif" width=234 height=1 alt=""></td></tr>
+</table>
+</td>
+</tr>
+<tr><td colspan=3><img src="http://pics.rbc.ru/img/e.gif" width=1 height=4 alt=""></td></tr>
+</table>
+<table cellpadding=0 cellspacing=0 class="main" width=100%>
+<tr>
+<td class="greentab leftColumnWidth">
+<h4 class="lightGreen"><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://cnews.ru/">Бизнес</a></h2>
+<ul class="nodot">
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://telecom.cnews.ru/">Телеком</a></li>
+
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://corp.cnews.ru/">Интеграция</a></li>
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://internet.cnews.ru/">Интернет</a></li>
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://safe.cnews.ru/">Безопасность</a> / <a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://safe.cnews.ru/bugtrack/">Bugtrack</a></li>
+<img src="http://pics.rbc.ru/img/e.gif" width=1 height=6 alt="">
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://cnews.ru/reviews/free/">Обзоры и обозрения</a></li>
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://www.cnews.ru/reviews/rating/">Рейтинги</a></li>
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://pr.cnews.ru/">Компании</a></li>
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://www.cnews.ru/reviews/lib/face/a-b.shtml">Лица ИТ</a></li>
+
+<img src="http://pics.rbc.ru/img/e.gif" width=1 height=6 alt="">
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://events.cnews.ru/">Конференции</a></li>
+<img src="http://pics.rbc.ru/img/e.gif" width=1 height=6 alt="">
+</ul>
+<img src="http://pics.rbc.ru/img/e.gif" width=1 height=6 alt="">
+<h4 class="lightGreen"><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://zoom.cnews.ru/">Техника</a></h2>
+<ul class="nodot">
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://gift.cnews.ru">Лучшая техника года</a></li>
+</ul>
+<img src="http://pics.rbc.ru/img/e.gif" width=1 height=6 alt="">
+<h4 class="lightGreen mBottom4"><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://rnd.cnews.ru/">Наука и разработки</a></h2>
+<img src="http://pics.rbc.ru/img/e.gif" width=1 height=4 alt="">
+<h4 class="lightGreen"><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://tv.cnews.ru/">Телеканал CNews TV</a></h2>
+
+<img src="http://pics.rbc.ru/img/e.gif" width=1 height=4 alt="">
+<h4 class="lightGreen"><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://www.cnews.ru/mag/">Журнал</a></h2>
+<ul class="nodot">
+<li><a href="http://cnews.ru/cgi-bin/redirect.cgi?http://cnews.ru/mag/2009/01/" class="red">Февраль 2009</a></li>
+</ul>
+</td>
+<td class="content commonTextBlock">
+<a name="cnews"></a><div style="width:1px;height:2px;"><spacer type=block width=1 height=2 /></div>
+<a href="http://www.cnews.ru/news/"><b>Главные новости</b></a>: &nbsp;&nbsp;<a href="http://cnews.ru/rss/"><img src="http://pics.rbc.ru/img/fp_v3/icon_rss.gif" align=absmiddle></a>&nbsp;&nbsp;<a href="http://cnews.ru/podcasts/index.shtml?2009/03/29/342341" ><img src="http://pics.rbc.ru/img/fp_v3/icon_podcast.gif" align=absmiddle></a><br />
+<ul>
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://cnews.ru">Аналитики: <облакам> осталось 2 года до бума</a></li>
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://cnews.ru">На Acer подали в суд за то, что Vista тормозит</a></li>
+
+<li><a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://cnews.ru">РВК парализована</a></li>
+<li><a href="http://www.cnews.ru/news/top/index.shtml?2009/03/30/342412" >Акции: в ИКТ бурный рост </a></li>
+<li><a href="http://cnews.ru/news/top/index.shtml?2009/03/30/342401" >Китайские хакеры шпионят за 103 странами </a></li>
+<li><a href="http://cnews.ru/news/top/index.shtml?2009/03/30/342383" >Nvidia использует Via для борьбы с Intel</a></li>
+</ul>
+<a href="http://www.cnews.ru/reviews/"><b>Аналитика</b></a>:
+<a href="http://www.cnews.ru/reviews/index.shtml?2009/03/30/342448" >Как лечить болезни "Электронного правительства?"</a><ul>
+<li>
+<a href="http://www.cnews.ru/reviews/free/infrastructure2008/articles/ib_system.shtml" >Выстраивание системы ИБ: как избежать ошибок?</a></li>
+<li>
+
+<a href="http://www.cnews.ru/reviews/index.shtml?2009/03/27/342223" >Мобильная связь: повышение тарифов не обосновано</a></li>
+<li>
+<b><a href="http://www.cnews.ru/reviews/free/infrastructure2008/" >Обзор: ИТ-инфраструктура предприятия 2008</a></b></li>
+<li>
+<a href="http://events.cnews.ru/events/02_04_09.shtml" class="red">Стимулы развития СЭД в России. Круглый стол 2 апреля</a></li>
+</ul>
+<a href="http://zoom.cnews.ru"><b>Техника</b></a>:
+<a href="http://zoom.cnews.ru/publication/item/16860" >HTC Touch Pro: самый удобный qwerty-коммуникатор?</a><ul>
+<li>
+<a href="http://zoom.cnews.ru/publication/item/16840" >Lenovo X301: лучший ноутбук для бизнеса</a></li>
+<li>
+
+<a href="http://zoom.cnews.ru/publication/item/16800" >Нетбук Samsung NC10 с WiMAX: первый тест в России</a></li>
+</ul>
+<a href="http://www.cnews.ru/news/"><b>Лента новостей:</b></a>:
+<ul>
+<li>
+<a href="http://cnews.ru/news/line/index.shtml?2009/03/30/342414" >Apple сама взламывает свои iPhone? </a></li>
+<li>
+<a href="http://cnews.ru/news/line/index.shtml?2009/03/30/342409" >Via намерена сохранить за собой 15% рынка нетбуков </a></li>
+<li>
+<a href="http://cnews.ru/news/line/index.shtml?2009/03/30/342362" >NEC прекращает продажи компьютеров за пределами Японии </a></li>
+</ul>
+<span class="red">Предыдущие новости можно посмотреть <a href="http://www.cnews.ru/" class="red">здесь</a>.</span><br /><br />
+
+</td>
+<td width=234>
+<h3 style="width:100%; overflow:hidden;"><a href="http://zoom.cnews.ru/">Техника</a></h3>
+<table width=234 height=70 border=0 cellspacing=0 cellpadding=0 background="http://pics.rbc.ru/img/cnews/2006/04/19/rbcZoomBg.gif" class="greentab">
+<tr><td align=center valign=middle>
+<SCRIPT src="http://pics.rbc.ru/img/cnews/scroll_block.js"></SCRIPT>
+<table border=0 cellpadding=0 style="table-layout:fixed;">
+<tr>
+<td style="padding-top:24px; cursor: pointer;" ><img src="http://pics.rbc.ru/img/cnews/2007/07/23/bottomLeft.gif" width=13 height=13 onmousedown="_scroll('l');" onmouseup="stop_scrolling()" /></td>
+<td width=190 height=59 colspan=3>
+<div style="overflow:hidden;width:190px;height:59px">
+<div id="pages_movable_element" style="white-space:nowrap;margin-left:0px;height:57px;padding:0px;float:left">
+<a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://zoom.cnews.ru/category/item/253"><img src="http://pics.rbc.ru/img/cnews/2006/04/19/rbcZoom1.gif" width=58 height=57 border=0 /></a>&nbsp;
+<a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://zoom.cnews.ru/category/item/208"><img src="http://pics.rbc.ru/img/cnews/2006/04/19/rbcZoom2.gif" width=58 height=57 border=0 /></a>&nbsp;
+<a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://zoom.cnews.ru/category/item/212"><img src="http://pics.rbc.ru/img/cnews/2006/04/19/rbcZoom4.gif" width=58 height=57 border=0 /></a>&nbsp;
+
+<a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://zoom.cnews.ru/category/item/220"><img src="http://pics.rbc.ru/img/cnews/2006/04/19/rbcZoom3.gif" width=58 height=57 border=0 /></a>&nbsp;
+<a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://zoom.cnews.ru/category/item/216"><img src="http://pics.rbc.ru/img/cnews/2006/04/19/rbcZoom5.gif" width=58 height=57 border=0 /></a>&nbsp;
+<a href="http://www.cnews.ru/cgi-bin/redirect.cgi?http://zoom.cnews.ru/category/item/224"><img src="http://pics.rbc.ru/img/cnews/2006/04/19/rbcZoom6.gif" width=58 height=57 border=0 /></a>
+</div>
+</div>
+</td>
+<td style="padding-top:24px;cursor: pointer;"><img src="http://pics.rbc.ru/img/cnews/2007/07/23/bottomRight.gif" width=13 height=13 onmousedown="_scroll('r');" onmouseup="stop_scrolling()" /></td>
+</tr>
+</table>
+<table border=0 cellpadding=0 style='table-layout:fixed;' width=100%>
+<tr>
+<td style='padding-top:7px;' align=center width=40%>
+<a href='http://zoom.cnews.ru/blog/#9029'>
+<img src='http://zoom.cnews.ru/blog/wp-content/uploads/2009/03/shirshov_asuseee1004dn_60.jpg' width=62 height=60 />
+</a>
+</td>
+<td style='padding-top:7px;' width=60% align=left>
+
+<a class='red' href='http://zoom.cnews.ru/blog/'><strong>ТЕХНОБЛОГ</a><br />
+<a href='http://zoom.cnews.ru/blog/#9029'>Asus EEE PC E1004DN. И это нетбук?</strong></a>
+</td>
+<tr>
+</table>
+</td></tr></table>
+<h3 style="width:100%; overflow:hidden;"><span style="float:left"><a href="http://gift.cnews.ru">Подарки</a></span></h3>
+<div class="greentab">
+<ul><li><a href="http://gift.cnews.ru/winter_2009/player/article_3.shtml">Музыка в подарок</a></li>
+<li><a href="http://gift.cnews.ru/winter_2009/photo/article_1.shtml">Лучшие ультразумы</a></li>
+<li><a href="http://gift.cnews.ru/winter_2009/kpk/article_1.shtml">HTC Touch Diamond: стильный и практичный подарок</a></li>
+
+</ul>
+</div>
+<div style="width:234px;text-align:center;margin:10px 0 0 0;padding:0;"><script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a href="http://www.rbc.ru/yeh9djjvyd/a5/go?sid=firstpage_cnews.default.20090212123046.98382&lid=firstpage_cnews&id=98382&code=!http%3A%2F%2Fwww.cnews.ru%2Fnews%2Ftop%2Findex.shtml%3F2008%2F12%2F24%2F333185" target="_blank"><img border=0 src="http://pics.rbc.ru/eej90/j/ny4xa11/cgbmtdxym/fjidicalslpw/SED_Russia_234-100.gif" width="234" height="100" alt=""></a></div>
+
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=rbc_intel" empty="true" style="display:none"></a>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+<img src="http://pics.rbc.ru/img/e.gif" width=1 height=8 alt=""><table cellpadding=0 cellspacing=0>
+<table cellpadding=0 cellspacing=0 width=100%>
+<tr>
+<td align=center collspan="3">
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=rbc_autonews" empty="true" style="display:none"></a>
+</td>
+</tr>
+</table>
+<table cellpadding=0 cellspacing=0 width=100%>
+<tr><td><img src="http://pics.rbc.ru/img/e.gif" width=1 height=5 alt=""></td></tr>
+<tr class="darkgreentab">
+<td width=150 rowspan=2 align=center><A HREF="http://www.autonews.ru"><img src="http://pics.rbc.ru/img/ver2004/lg_autonews.gif" width=142 height=28 hspace="4" alt="Autonews.ru"></A></td>
+<td width=21 rowspan=2 style="background-color:#D1E0C1"><img src="http://pics.rbc.ru/img/ver2004/lg_00.gif" width=21 height=28 alt=""></td>
+<td colspan=2><img src="http://pics.rbc.ru/img/e.gif" width=1 height=7 alt=""></td>
+
+</tr>
+<tr class="about">
+<td width=100%>
+<table cellpadding=0 cellspacing=0 class="explan" width=100%>
+<tr class="green middlegreentab"><td>Все об автомобилях</td><td align=right>30 марта 2009</td><td width=234><img src="http://pics.rbc.ru/img/e.gif" width=234 height=1 alt=""></td></tr>
+</table>
+</td>
+</tr>
+</table>
+<script>
+var globalRnd = new Array();
+var arr = new Array(
+{id:'1458915', header:'Евро = 34 рубля на все легковые автомобили 2008 г.', url:'http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/auto_news/index.shtml?2009/03/30/1458915', pic:'http://pics.rbc.ru/img/autonews/onews/2009/03/26/182915.32356_100.jpg', bigpic:'http://pics.rbc.ru/img/autonews/onews/2009/03/26/182909.32337_150.jpg'},
+{id:'1458574', header:'Лучшее время для покупки автомобиля Ford', url:'http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/auto_news/index.shtml?2009/03/30/1458574', pic:'http://pics.rbc.ru/img/autonews/onews/2009/03/25/173740.16052_100.jpg', bigpic:'http://pics.rbc.ru/img/autonews/onews/2009/03/25/173735.16013_150.jpg'},
+{id:'1458911', header:'Новый кузов без очереди', url:'http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/auto_news/index.shtml?2009/03/30/1458911', pic:'http://pics.rbc.ru/img/autonews/onews/2009/03/26/180004.25206_100.jpg', bigpic:'http://pics.rbc.ru/img/autonews/onews/2009/03/26/175958.25045_150.jpg'},
+{id:'1459114', header:'Uz-Daewoo дарит 1000 км', url:'http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/auto_news/index.shtml?2009/03/30/1459114', pic:'http://pics.rbc.ru/img/autonews/onews/2009/03/27/150942.14824_100.jpg', bigpic:'http://pics.rbc.ru/img/autonews/onews/2009/03/27/150931.14799_150.jpg'},
+{id:'1459189', header:'Назад в будушее: 1? = 34 руб. на \"Мерседес-Бенц\"!', url:'http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/auto_news/index.shtml?2009/03/30/1459189', pic:'http://pics.rbc.ru/img/autonews/onews/2009/03/27/200051.19245_100.jpg', bigpic:'http://pics.rbc.ru/img/autonews/onews/2009/03/27/200043.19226_150.jpg'},
+{id:'1458779', header:'Амбициозный Toyota Urban Cruiser', url:'http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/auto_news/index.shtml?2009/03/30/1458779', pic:'http://pics.rbc.ru/img/autonews/onews/2009/03/26/110810.22522_100.jpg', bigpic:'http://pics.rbc.ru/img/autonews/onews/2009/03/26/110758.22422_150.jpg'},
+{id:'1458786', header:'Chevrolet Cruze - бестселлер для России', url:'http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/auto_news/index.shtml?2009/03/30/1458786', pic:'http://pics.rbc.ru/img/autonews/onews/2009/03/26/112810.27768_100.jpg', bigpic:'http://pics.rbc.ru/img/autonews/onews/2009/03/26/112800.27679_150.jpg'},
+{id:'1458791', header:'Испанский спорткар на каждый день', url:'http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/auto_news/index.shtml?2009/03/30/1458791', pic:'http://pics.rbc.ru/img/autonews/onews/2009/03/26/113957.30731_100.jpg', bigpic:'http://pics.rbc.ru/img/autonews/onews/2009/03/26/113948.30713_150.jpg'},
+{id:'1458795', header:'SsangYong начинает мировую экспансию', url:'http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/auto_news/index.shtml?2009/03/30/1458795', pic:'http://pics.rbc.ru/img/autonews/onews/2009/03/26/114751.32532_100.jpg', bigpic:'http://pics.rbc.ru/img/autonews/onews/2009/03/26/114742.32513_150.jpg'},
+{id:'1458560', header:'Летающий автомобиль уже можно купить', url:'http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/auto_news/index.shtml?2009/03/30/1458560', pic:'http://pics.rbc.ru/img/autonews/onews/2009/03/25/170542.7547_100.jpg', bigpic:'http://pics.rbc.ru/img/autonews/onews/2009/03/25/170537.7537_150.jpg'}
+);
+function getRandomStr(num, rarr){
+var narr = new Array();
+while( narr.length < num ){
+var f = 0;
+var rnd = Math.round(num*Math.random());
+rnd = rnd == 0 ? 1 : rnd;
+for( var i=0; i<rarr.length; i++ ){
+if ( rarr[i] == rnd ){ f++; break; }
+}
+if ( f == 0 ){
+if( rarr[narr.length] > 0 ){
+narr[narr.length] = rarr[narr.length];
+}else{
+rarr[narr.length] = rnd;
+narr[narr.length] = rnd;
+}
+}else if( rarr[narr.length] > 0 ) {
+narr[narr.length] = rarr[narr.length];
+}
+}
+return narr;
+}
+function printCell(iter, ob) {
+if ( !ob ) {return '';}
+var str='';
+if (iter == 1 ) {
+}
+if (iter == 2 ) {
+}
+return str;
+}
+function printInformer( arr, num )
+{
+var rarr = new Array();
+for(var i=0; i<arr.length; i++){
+if ( arr[i].num > 0 && arr[i].num < arr.length ) rarr[rarr.length] = arr[i].num;
+else rarr[rarr.length] = 0;
+}
+var rarr = getRandomStr(arr.length, rarr);
+globalRnd = rarr;
+tbl = ''; tbl2 = '';
+widthTd = 100/arr.length;
+for(i=0; i<num; i++){
+if ( i == 0 ) {
+tbl += '<table cellpadding=0 cellspacing=0 width=100% class="main auto"><tr>';
+tbl2 += '</tr><tr>';
+}
+tbl += '<td width="' + widthTd + '%">'+printCell(1,arr[rarr[i]-1])+'</td>';
+tbl2 += '<td>'+printCell(2,arr[rarr[i]-1])+'</td>';
+}
+tbl2 += '</tr></table>';
+table = tbl + tbl2;
+document.write(table);
+}
+printInformer( arr, 6 );
+</script>
+<table cellpadding=0 cellspacing=0 class="main" width=100%>
+<tr>
+<td class="greentab leftColumnWidth">
+<h4 class="lightGreen">Купля-продажа</h4>
+
+<ul class="nodot">
+<li class="red"><a href="http://www.autonews.ru/sell/index.shtml?new=Y">Новые авто</a></li>
+<li class="red"><a href="http://www.autonews.ru/sell/index.shtml?new=N">Авто с пробегом</a></li>
+<li class="red"><a href="http://www.autonews.ru/sell/add_sell_offer.shtml">Продать авто</a></li>
+</ul>
+<h4 class="lightGreen">Автомобили</h4>
+<ul class="nodot">
+<li><b><a href="http://www.autonews.ru/index.shtml">Новости</a></b></li>
+<li><b><a href="http://www.autonews.ru/test_drive/">Тест-Драйвы</a></b></li>
+<li><b><a href="http://www.autonews.ru/autobusiness/">Комментарии</a></b></li>
+
+<li><b><a href="http://www.autonews.ru/first_look/">Новинки сезона</a></b></li>
+<li><b><a href="http://www.autonews.ru/luxury_cars/">V.I.P.</a></b></li>
+<li><a href="http://www.autonews.ru/events/">Календарь событий</a></li>
+<li><a href="http://www.autonews.ru/catalog/">Каталог</a></li>
+<li><a href="http://www.autonews.ru/models_opinions/">Отзывы</a></li>
+<li><a href="http://www.autonews.ru/compare/">Сравнения</a></li>
+</ul>
+<h4 class="lightGreen">Услуги</h4>
+<ul class="nodot">
+<li><a href="http://www.autonews.ru/salones/index.shtml?ftype=1">Автосалоны</a></li>
+
+<li><a href="http://www.autonews.ru/salones/index.shtml?ftype=2">Сервис</a></li>
+<li><a href="http://www.autonews.ru/salones/index.shtml?servs=10002">Кредиты</a></li>
+<li><a href="http://www.autonews.ru/salones/index.shtml?servs=10004">Лизинг</a></li>
+<li><a href="http://www.autonews.ru/salones/index.shtml?servs=10007">Страхование</a></li>
+</ul>
+<h4 class="lightGreen"><a href="http://www.turbo.ru/">Turbo.ru</a></h4>
+<div style="text-align:center; margin-top: 5px; margin-bottom: 5px;"><script type=text/javascript>
+var Cookie = {
+/**
+* Установка cookie name=value сроком на days дней
+* @param {} name
+* @param {} value
+* @param {} days
+*/
+set: function( name, value, days ){
+var date = new Date();
+date.setTime( date.getTime() + days * 86400000 );
+document.cookie =
+name + '=' + value + '; ' +
+'expires=' + date.toGMTString() + '; ' +
+'path=/';
+},
+/**
+* Получение значение cookie name
+* @param {} name
+* @return {String}
+*/
+get: function( name ){
+var re = new RegExp( '\\s*' + name + '=' );
+var cookies = document.cookie.split(';');
+for( var i = 0; i < cookies.length; i++ ){
+var c = cookies[i];
+if ( re.test( c ) )
+return c.replace( re, '' );
+}
+return '';
+}
+}
+function turbo_promo () {
+var ar = new Array();
+ar[0]='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turbo.ru/legend/562949957353426.shtml"><img width=150px height=100px alt="turbo.ru" src="http://turbo.ru/turbo_pics/uniora/81/83/127/5b0fafbd8a0185ea2f85adfeadbfdf72_150x100.jpg"></a><br>';
+ar[0]+='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turbo.ru/legend/562949957353426.shtml">Tesla Motors представила новый электрокар</a>';
+ar[1]='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turbo.ru/legend/562949956801257.shtml"><img width=150px height=100px alt="turbo.ru" src="http://turbo.ru/turbo_pics/uniora/663/583/623/0be36721d492c5dabe240ccc719d9dff_150x100.jpg"></a><br>';
+ar[1]+='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turbo.ru/legend/562949956801257.shtml">Новый каталонский суперкар будет стоить 385 000 евро</a>';
+ar[2]='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turbo.ru/legend/562949956566838.shtml"><img width=150px height=100px alt="turbo.ru" src="http://turbo.ru/turbo_pics/uniora/717/760/566/501e420a2e90b51b581ce06da7d0a5fa_150x100.jpg"></a><br>';
+ar[2]+='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turbo.ru/legend/562949956566838.shtml">Летающий автомобиль уже можно купить</a>';
+var current = Cookie.get("turbo_promo");
+if (!current || current > ar.length-2){
+current=0;
+}
+else
+current=2;
+Cookie.set("turbo_promo",current,365);
+document.write(ar[current]);
+}
+turbo_promo();
+</script></div>
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage_autonews_left" empty="true" style="display:none"></a>
+</td>
+<td class="content commonTextBlock">
+
+<b><a href="http://www.autonews.ru/">События и комментарии</a></b>
+<ul>
+<li><a href='http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/'>Как эффективно противостоять видеокамерам ГАИ</a></li><li><a href='http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/'>Конец кризиса Audi отметит выпуском новой модели</a></li><li><a href='http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/'>Mercedes показал самый непрактичный автомобиль в истории</a></li><li><a href='http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/'>Чего хотят девушки: рейтинг женских иномарок</a></li>
+<li><a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turbo.ru/">Turbo.ru: Объявлены итоги конкурса "Автомобиль года в России"</a></li>
+</ul>
+<b><a href="http://www.autonews.ru/">Главные новости</a></b> <a href="http://www.autonews.ru/rss/auto_news.xml"><img src="http://pics.rbc.ru/img/fp_v3/icon_rss.gif" align=absmiddle></a>
+<ul>
+<li><a href='http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/automarket_news/index.shtml?2009/03/30/1459494' >В Сеуле дебютирует седан KIA VG</a></li><li><a href='http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/automarket_news/index.shtml?2009/03/30/1459452' >Российский завод Toyota остановил производство на неделю</a></li><li><a href='http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonews.ru/automarket_news/index.shtml?2009/03/30/1459434' >Сегодня Путин проведет совещание на АвтоВАЗе</a></li>
+
+</ul>
+<div>
+<b>Практика</b><ul>
+<li><a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.autonissan.ru/">Автомобили Nissan 2008 г.: скидка до 120 000 руб.</a></li>
+<li><a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.nissan-avtogrand.ru/news/news.php?id=40">Суперусловия по покупке автомобилей Nissan 2008 г.в.</a></li>
+<li><a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://www.lexusnm.ru/">Lexus - 20% счет в Вашу пользу</a></li>
+</ul>
+</div>
+<b><a href="http://www.autonews.ru/automarket_news/">Последние новости:</a></b> <a href="http://www.autonews.ru/rss/auto_news.xml"><img src="http://pics.rbc.ru/img/fp_v3/icon_rss.gif" align=absmiddle></a><br />
+<div class="top10">
+<b>30 марта</b> <ul class="dates"> <li>19:15 <a href='http://www.autonews.ru/automarket_news/index.shtml?2009/03/30/1459674'>Британца оштрафовали за езду без спидометра</a></li> <li>18:56 <a href='http://www.autonews.ru/automarket_news/index.shtml?2009/03/30/1459672'>Европейским автозаводам грозит закрытие</a></li> <li>18:27 <a href='http://www.autonews.ru/automarket_news/index.shtml?2009/03/30/1459662'>ГАЗ, КамАЗ и Sollers получат госгарантии на сумму 13,6 млрд рублей</a></li> <li>17:52 <a href='http://www.autonews.ru/automarket_news/index.shtml?2009/03/30/1459657'>BMW покажет X5 M и X6 M на автосалоне в Нью-Йорке</a></li> <li>17:28 <a href='http://www.autonews.ru/automarket_news/index.shtml?2009/03/30/1459654'>Китайская Geely рвется в премиум-сегмент</a></li> <li>16:57 <a href='http://www.autonews.ru/automarket_news/index.shtml?2009/03/30/1459643'>ГАЗ должен своим сотрудникам 64 млн рублей</a></li> <li>16:25 <a href='http://www.autonews.ru/automarket_news/index.shtml?2009/03/30/1459595'>Правительство может выделить АвтоВАЗу еще 20 млрд рублей</a></li> <li>15:57 <a href='http://www.autonews.ru/automarket_news/index.shtml?2009/03/30/1459615'>Infiniti готовится к захвату премиум-сегмента</a></li> </ul>
+
+</div>
+<span class="red">Предыдущие новости можно посмотреть <a href="http://www.autonews.ru" class="red">здесь</a>.</span><br /><br />
+</td>
+<td width=234 align=center>
+<script>
+function printBigCell(iter, ob) {
+if ( !ob ) {return '';}
+var str='';
+if (iter == 1 ) {
+}
+if (iter == 2 ) {
+}
+return str;
+}
+function printBigInformer( arr, start, num )
+{
+var rarr = new Array();
+for(var i=0; i<arr.length; i++){
+if ( arr[i].num > 0 && arr[i].num < arr.length ) rarr[rarr.length] = arr[i].num;
+else rarr[rarr.length] = 0;
+}
+var rarr;
+if (globalRnd.length > 0 ) {
+rarr = globalRnd;
+} else {
+rarr = getRandomStr(arr.length, rarr);
+globalRnd = rarr;
+}
+tbl = '';
+for(i=start; i<num; i++){
+tbl += printBigCell(1,arr[rarr[i]-1]);
+tbl += '<br>';
+tbl += printBigCell(2,arr[rarr[i]-1]);
+tbl += '<br><img width=1 height=25 src="http://pics.rbc.ru/img/e.gif"><br>';
+}
+document.write(tbl);
+}
+printBigInformer( arr, 8, 10 );
+</script>
+<div style="text-align:center; margin-top: 5px;"><script type=text/javascript>
+var Cookie = {
+/**
+* Установка cookie name=value сроком на days дней
+* @param {} name
+* @param {} value
+* @param {} days
+*/
+set: function( name, value, days ){
+var date = new Date();
+date.setTime( date.getTime() + days * 86400000 );
+document.cookie =
+name + '=' + value + '; ' +
+'expires=' + date.toGMTString() + '; ' +
+'path=/';
+},
+/**
+* Получение значение cookie name
+* @param {} name
+* @return {String}
+*/
+get: function( name ){
+var re = new RegExp( '\\s*' + name + '=' );
+var cookies = document.cookie.split(';');
+for( var i = 0; i < cookies.length; i++ ){
+var c = cookies[i];
+if ( re.test( c ) )
+return c.replace( re, '' );
+}
+return '';
+}
+}
+function turbo_promo () {
+var ar = new Array();
+ar[0]='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turbo.ru/legend/562949953866020.shtml"><img width=150 height=100 alt="turbo.ru" src="http://turbo.ru/turbo_pics/uniora/98/03/573/7498c4bda428253746d77a3b0db0087c_150x100.jpg"></a><br>';
+ar[0]+='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turbo.ru/legend/562949953866020.shtml">Volvo S60 - еще один взгляд на четырёхдверное купе</a><br>';
+ar[1]='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turbo.ru/legend/562949955004758.shtml"><img width=150 height=100 alt="turbo.ru" src="http://turbo.ru/turbo_pics/uniora/955/765/145/6c7d1037cff3ba28524c973414ba1995_150x100.jpg"></a><br>';
+ar[1]+='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turbo.ru/legend/562949955004758.shtml">Новейший Porsche можно будет купить за 7 000 000 рублей</a><br>';
+ar[2]='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turist.ru/goods/"><img width=150 height=100 alt="turbo.ru" src="http://turbo.ru/turbo_pics/uniora/90/240/350/a839c3fac974f93478606906dda54e77_150x100.jpg"></a><br>';
+ar[2]+='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turist.ru/goods/">Универсальный ключ для автосигнализации</a><br>';
+ar[3]='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turist.ru/goods/"><img width=150 height=100 alt="turbo.ru" src="http://turbo.ru/turbo_pics/uniora/841/703/964/42bc85c9bda85dc1424791532b812aaf_150x100.jpg"></a><br>';
+ar[3]+='<a href="http://redir.rbc.ru/cgi-bin/redirect.cgi?http://turist.ru/goods/">Michelin изобрела активное колесо</a><br>';
+var current = Cookie.get("turbo_informer");
+var next = current;
+if (!current || current > ar.length-2){
+current=0;
+next=1;
+}
+else
+{
+current++;
+next = current+1;
+if(next > ar.length-1 && ar.length>1)
+next=0;
+}
+Cookie.set("turbo_informer",current,365);
+var out = ar[current];
+if(ar[next])
+out+='<img width=1 height=25 src="http://pics.rbc.ru/img/e.gif"><br>';
+out+= ar[next];
+document.write(out);
+}
+turbo_promo();
+</script></div>
+</td>
+</tr>
+</table>
+<img src="http://pics.rbc.ru/img/e.gif" width=1 height=8 alt=""><table cellpadding=0 cellspacing=0 width=100%>
+<tr>
+<td align=center>
+
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage" empty="true" style="display:none"></a>
+</td>
+</tr>
+<tr><td><img src="http://pics.rbc.ru/img/e.gif" width=1 height=5 alt=""></td></tr>
+</table>
+<table cellpadding=0 cellspacing=0 class="main" border=0 width=100%>
+<tr>
+<td>
+<h3 align=center>Партнеры</h3>
+</td>
+<td><img src="http://pics.rbc.ru/img/e.gif" width=8 height=1 alt=""></td>
+<td width=38%>
+<h3 class="left">Опрос на сайте РБК</h3>
+
+</td>
+<td><img src="http://pics.rbc.ru/img/e.gif" width=2 height=1 alt=""></td>
+<td>
+</td>
+</tr>
+<tr>
+<td class="greentab leftColumnWidth">
+<div align=center>
+<a href="http://www.worldclass.ru/"><img src="http://pics.rbc.ru/img/partners/wclass.gif" width=100 height=60 border=0></a>
+</div>
+<ul class="nodot">
+
+<li class="red"><a href="http://turbo.ru/">Turbo.ru</a></li>
+<li class="red"><a href="http://drinktime.ru">DrinkTime.ru</a></li>
+<li class="red"><b><a href="http://www.m-2.ru">Квадратный метр</a></b></li>
+<li><a href="http://tata.ru">Tata.ru</a></li>
+<li><a href="http://magazine.rbc.ru/">Журнал РБК</a></li>
+<li><a href="http://adworker.ru/">Adworker.ru</a></li>
+<li><a href="http://www.5ballov.ru/">5 баллов</a></li>
+<li><a href="http://www.iglobe.ru/">iGlobe</a></li>
+<li class="red"><b><a href="http://dict.rbc.ru/">Словари</a></b></li>
+
+</ul>
+<!-- # include virtual="/include/fp/sun_logo.shtml" -->
+</td>
+<td><img src="http://pics.rbc.ru/img/e.gif" width=8 height=1 alt=""></td>
+<td class="greentab" width=38%>
+<div class="content inquiry">
+<form name="ioda" action="http://cgi2.rbc.ru/cgi-bin/poll.cgi" method=POST>
+<input type=Hidden name="ID" value="20090330">
+<b>Какой связью Вы пользуетесь во время зарубежных поездок?
+</b><br>
+<i>(Возможно несколько вариантов ответа)</i>
+<br>
+<input type=checkbox name="20090330" value="1" style="background-color:#F4F8ED;">&nbsp;стационарной телефонной связью<br>
+<input type=checkbox name="20090330" value="2" style="background-color:#F4F8ED;">&nbsp;мобильной, покупаю sim-карты местного оператора<br>
+
+<input type=checkbox name="20090330" value="3" style="background-color:#F4F8ED;">&nbsp;мобильной, покупаю туристическую sim-карту<br>
+<input type=checkbox name="20090330" value="4" style="background-color:#F4F8ED;">&nbsp;мобильной, у меня подключен роуминг<br>
+<input type=checkbox name="20090330" value="5" style="background-color:#F4F8ED;">&nbsp;телеграфной/почтовой<br>
+<input type=checkbox name="20090330" value="6" style="background-color:#F4F8ED;">&nbsp;другой<br>
+<input type=checkbox name="20090330" value="7" style="background-color:#F4F8ED;">&nbsp;никакой<br>
+<input type=checkbox name="20090330" value="8" style="background-color:#F4F8ED;">&nbsp;я не езжу за границу<br>
+<small>(окончание опроса в 11:00 31 марта)</small>
+<p>
+<input type=Submit name="^" value="Проголосовать" style="width:150">
+</div>
+
+</td>
+<td><img src="http://pics.rbc.ru/img/e.gif" width=2 height=1 alt=""></td>
+<td class="greentab">
+<div class="content inquiry">
+<B>По какой цене Вы приобретали ювелирные изделия и столовое серебро за последний год?</B><br>
+<i>(Возможно несколько вариантов ответа)</i>
+<table border=0 cellspacing=0 cellpadding=0 id="inquiry" width=100%>
+<TR>
+<td>&nbsp;</td>
+<TD><B>Всего: 14625 (13946 ответивших )</B></TD>
+</TR>
+<TR>
+<td><span class="voice" style="color:#086E08; background-color:#086E08;"><b>::::::::::::::::::::::::::::::::::</b></span></td>
+
+<TD>я не покупал(а) ювелирные изделия и столовое серебро за последний год - 7581 (54.4%)</TD>
+</TR>
+<TR>
+<td><span class="voice" style="color:#177D17; background-color:#177D17;"><b>::::::::::</b></span></td>
+<TD>от 150 до 500 долларов - 2137 (15.3%)</TD>
+</TR>
+<TR>
+<td><span class="voice" style="color:#278D27; background-color:#278D27;"><b>:::::::</b></span></td>
+<TD>от 50 до 150 долларов - 1520 (10.9%)</TD>
+</TR>
+<TR>
+<td><span class="voice" style="color:#379D37; background-color:#379D37;"><b>:::::::</b></span></td>
+
+<TD>свыше 1000 долларов - 1345 (9.7%)</TD>
+</TR>
+<TR>
+<td><span class="voice" style="color:#46AC46; background-color:#46AC46;"><b>:::::</b></span></td>
+<TD>от 500 до 1000 долларов - 1079 (7.7%)</TD>
+</TR>
+<TR>
+<td><span class="voice" style="color:#56BC56; background-color:#56BC56;"><b>:::</b></span></td>
+<TD>менее 50 долларов за изделие/набор - 542 (3.9%)</TD>
+</TR>
+<TR>
+<td><span class="voice" style="color:#66CC66; background-color:#66CC66;"><b>:::</b></span></td>
+
+<TD>не помню - 421 (3.0%)</TD>
+</TR>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan=5>
+
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><a target="_top" href="http://banner.rbc.ru/banredir.cgi?lid=firstpage_bot" empty="true" style="display:none"></a>
+</td>
+</tr>
+</table>
+<div id="bottomMenu" align=center>
+<a href="http://www.quote.ru/price/">Услуги</a>&nbsp; &middot; &nbsp;
+<a href="http://www.rbcinfosystems.com/">Инвесторам</a>&nbsp; &middot; &nbsp;
+
+</div>
+
+<div id="copyrights" align=center>
+Все замечания и пожелания присылайте на webmaster@rbc.ru.<br>
+Все права защищены и охраняются законом. &copy; 1995 - 2009 РосБизнесКонсалтинг.<br>
+
+Автоматизированное извлечение информации сайта запрещено.<br>
+Порядок и Условия использования данных &copy;&nbsp;<a href="http://www.rbc.ru/dow_jones.shtml" target="_blank">Dow Jones&amp;Company</a>.<br>
+Информация об ограничениях &copy;&nbsp;<a href="http://www.rbc.ru/reuters.shtml" target="_blank">Reuters</a>, &copy;&nbsp;<a href="http://www.rbc.ru/ap.shtml" target="_blank">AP</a>.<br>
+Данные предоставлены &copy;&nbsp;<a href="http://www.rbc.ru/comstock.shtml" target="_blank">ComStock, Inc</a>.<br>
+
+Подробнее о <a href="http://www.rbc.ru/privacy.shtml" target="_blank">соблюдении авторских прав</a> и <a href="http://www.rbc.ru/advert/" target="_blank">размещении рекламы</a>.
+<br>
+</div>
+<div align=center id="counters">
+<a href="http://top100.rambler.ru/top100/All/rate21.0.shtml.ru"><img src="http://pics.rbc.ru/img/ver99/counter_rambler.gif" alt="Rambler's Top100 Service" width=88 height=31 border=0></a>
+<a href="http://www.liveinternet.ru/click" target=_blank><img src="http://pics.rbc.ru/img/ver99/counter_liveinternet.gif" border=0 width=31 height=31 title="liveinternet.ru"></a>
+<script src='http://pics.rbc.ru/img/banners/show_flash.js'></script><!-- count_nielsen_general_meter -->
+</div>
+</body>
+</html>

@@ -72,13 +72,3 @@ def change_repeat():
     for line in array:
         line = re.sub(r'((\w)\2+)', r'\2', line)
         print(line)
-
-
-def search():
-    for line in sys.stdin:
-        line = line.rstrip()
-        line = re.sub(r'((\w)\2)*', r'\2', line)
-        print(line)
-
-
-change_repeat()

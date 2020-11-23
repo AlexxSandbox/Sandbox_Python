@@ -41,20 +41,27 @@ description = greg.find('description')
 greg.remove(description)
 tree.write('students_copy.xml')
 
-# create tree
-root = ElementTree.Element('student')
 
-first_name = ElementTree.SubElement(root, 'firstName')
-first_name.text = 'Greg'
-last_name = ElementTree.SubElement(root, 'lastName')
-last_name.text = 'Dean'
+def create_xml():
+    root = ElementTree.Element('student')
 
-scores = ElementTree.SubElement(root, 'scores')
+    first_name = ElementTree.SubElement(root, 'firstName')
+    first_name.text = 'Greg'
+    last_name = ElementTree.SubElement(root, 'lastName')
+    last_name.text = 'Dean'
 
-module_1 = ElementTree.SubElement(scores, 'module1')
-module_1.text = '100'
-# module_2 ...
-# module_3 ...
+    scores = ElementTree.SubElement(root, 'scores')
 
-tree = ElementTree.ElementTree(root)
-tree.write('student.xml')
+    module_1 = ElementTree.SubElement(scores, 'module1')
+    module_1.text = '100'
+    # module_2 ...
+    # module_3 ...
+
+    tree = ElementTree.ElementTree(root)
+    tree.write('student.xml')
+
+
+for student in root.findall('student'):
+    name = student.find('firstName').text
+    id = student.get('id')
+    print(name, id)
